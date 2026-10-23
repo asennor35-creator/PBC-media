@@ -86,6 +86,165 @@
    "nama": "VID-20260831-WA0007.mp4",
    "status": "dipakai",
    "catatan": "Digabung jadi video/studio-panel-lengkung.mp4"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1wOsxNSRfzYgX8_-qsB7Ick6cL_YVcWTV",
+   "nama": "a11_lv_7568129619509988661",
+   "file_ready": "ready/2026-10-26-progres-studio-pbc.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-26 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "-733858424911016005"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1H2QSHPKtMtAzIEb5wmMAh5jDwOaEyZfr",
+   "nama": "a01_VID_20260401_132303 + foto rumah selesai",
+   "file_ready": "ready/2026-10-27-renovasi-rumah-bali.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-27 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "7762735126918152767"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1P-SrPz6vLX_nu-G-ieQN3Y1QBslb0w9d",
+   "nama": "a03_lv_7631661487571881223",
+   "file_ready": "ready/2026-10-28-rangka-soundproofing.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-28 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "4344457798427758524"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1cTt_5ixvaOSCyDfi5vz6j3z8z4F-GOSO,1_qo0Ka6qes7ZVqd3SZ2jA9PTkZUIIsCu",
+   "nama": "VID_20260926_114839 + VID_20260910_131957",
+   "file_ready": "ready/2026-10-29-panel-lengkung-biru.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-29 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "7134492495309392719"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1WE0ObBsKiVz83h4PdjH1CjOvs1LrbkmJ,1OYiSi0WBMbY_KMzlo8F9nqQWzcN-GYcP",
+   "nama": "VID_20260815_202657 + VID_20260815_050830_519",
+   "file_ready": "ready/2026-10-30-ruang-osb-meja-bar.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-30 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "5632207572844564019"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1UPmKbQ0LM64Al-xx155UGrwxNKsM5SGL",
+   "nama": "lv_7477464260688317757",
+   "file_ready": "ready/2026-11-02-rangka-rockwool-studio.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-11-02 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "4537079932063465783"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "15JS43KLZkOaX3afZodYaSCNGwpC9EyUl,1_Wb2hpY5IJa4dt7WIpaBqYM_H6HJy8IV",
+   "nama": "VID_20261011_105022 + VID-20261005-WA0030",
+   "file_ready": "ready/2026-11-03-plafon-studio-malam.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-11-03 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "-6718639826218168587"
+  },
+  {
+   "sumber": "github",
+   "path": "video/kafe-lantai-epoxy-v3.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-24 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "-7117019289704641619"
+  },
+  {
+   "sumber": "github",
+   "path": "ready/2026-10-25-studio-panel-lengkung.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-25 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "3239833023152212220"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "18ZKNrLQn5TSWWrbYQOFrHIApy7BVfbP4",
+   "nama": "#papelaiharisiap#papelaihari.mp4",
+   "status": "tunda",
+   "catatan": "Bukan pekerjaan PBC (konten hiburan satpam). Menunggu keputusan Bapak."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1jfQ793SLWPmgpAqHgB7GgnzpEUHLVclL",
+   "nama": "lv_0_20260615005245.mp4",
+   "status": "tunda",
+   "catatan": "Video edit landscape 16:9 lama, belum dipakai."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1QLS56ECssdN8AqkEks7ycoRRsiY8YM9i",
+   "nama": "lv_0_20261008215906.mp4 (salinan 23 Okt)",
+   "status": "lewati",
+   "catatan": "Diduga sama dengan video wall panel yang sudah tayang 23 Okt; menunggu konfirmasi Bapak."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1gNj7zVFnOqhBfUCTzO32ynzoTkOHG7TE",
+   "nama": "lv_0_20261008215906.mp4 (21 Okt)",
+   "status": "lewati",
+   "catatan": "Diduga video wall panel yang sudah tayang 23 Okt."
   }
  ]
 }
