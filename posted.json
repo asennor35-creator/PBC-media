@@ -1,0 +1,8 @@
+{
+  "keterangan": "Catatan posting media sosial PBC. Setiap file dari Google Drive (folder 'PBC conten') atau dari repo ini yang sudah dijadwalkan/diposting dicatat di sini supaya tidak diposting dua kali.",
+  "items": [
+    {"sumber": "github", "path": "video/rapat-rab-sampai-deal.mp4", "status": "terjadwal", "tanggal_tayang": "2026-10-23 19:00 WIB", "jaringan": ["instagram", "facebook", "tiktok", "youtube"], "metricool_uuid": "-2066373904614404219", "catatan": "Animasi rapat 5 orang, versi v3 dengan diskusi suami-istri"},
+    {"sumber": "drive", "drive_id": "1St7aUWkgoAPkHl8rY4omv3eg1UKtFHqj", "nama": "Rapat_Berhadapan_Gelembung_PBC.mp4", "status": "lewati", "catatan": "Versi lama dari video rapat yang sudah dijadwalkan (v3). Jangan diposting."},
+    {"sumber": "manual", "nama": "Video pemasangan wall panel studio musik", "status": "tayang", "tanggal_tayang": "2026-10-23 15:15 WIB", "jaringan": ["instagram", "facebook", "youtube"], "metricool_uuid": "5301018872691052112", "catatan": "TikTok gagal (frame rate di luar 23-60 FPS); perlu file asli diekspor ulang 1080p 30 FPS"}
+  ]
+}
