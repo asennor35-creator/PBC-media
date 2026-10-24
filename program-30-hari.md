@@ -45,3 +45,17 @@
 
 ## Log mingguan
 (diisi otomatis setiap Jumat oleh tugas "Posting harian PBC")
+
+## Eksperimen aktif (dibuat 24 Okt 2026, wajib dinilai di laporan Jumat)
+
+Baseline Instagram Reels 7–23 Okt (Metricool): median % bertahan lewat 3 detik 31%, median tayangan 56, komentar rata-rata di bawah 1. TikTok median tayangan 566 (3 video). Pengikut IG 95, TikTok 869.
+
+| No | Hipotesis | Cara uji | Ukuran | Dinilai |
+|---|---|---|---|---|
+| E1 | Hook di detik 0 (gaya v3) menaikkan % bertahan lewat 3 detik | 7 video v3 24–30 Okt vs 8 Reels sebelumnya | rata-rata IGRE28 dari 31% ke >=45% | 31 Okt |
+| E2 | Wajah Bapak bicara ke kamera lebih menahan penonton & memancing komentar | video Bapak no. 1–2 (jika sudah direkam) vs video tanpa orang | IGRE28, komentar, kunjungan profil | 3 Nov |
+| E3 | CTA ringan (komentar kata kunci / simpan) lebih banyak interaksi daripada pertanyaan biasa | 27 Okt "Komentar RUMAH", 28 Okt "Simpan video ini", lainnya pertanyaan A/B | komentar dan simpan per posting | 31 Okt |
+| E4 | Konten rumah menarik calon klien bernilai besar | renovasi 27 Okt + video Bapak vs video studio | kunjungan profil, klik link, chat WA laporan Bapak | 7 Nov |
+| E5 | Foto TikTok jam 12:00 WIB vs 18:00 WIB | foto 24 Okt 18:00 vs foto 25 & 26 Okt 12:00 | tayangan TikTok foto | 31 Okt |
+
+Catatan: semua video terjadwal memakai sampul frame hook (videoCoverMilliseconds 600). Jangan menjadwalkan eksperimen tambahan sebelum kuota Metricool November jelas (20 posting/bulan).
