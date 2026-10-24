@@ -56,6 +56,6 @@ Baseline Instagram Reels 7–23 Okt (Metricool): median % bertahan lewat 3 detik
 | E2 | Wajah Bapak bicara ke kamera lebih menahan penonton & memancing komentar | video Bapak no. 1–2 (jika sudah direkam) vs video tanpa orang | IGRE28, komentar, kunjungan profil | 3 Nov |
 | E3 | CTA ringan (komentar kata kunci / simpan) lebih banyak interaksi daripada pertanyaan biasa | 27 Okt "Komentar RUMAH", 28 Okt "Simpan video ini", lainnya pertanyaan A/B | komentar dan simpan per posting | 31 Okt |
 | E4 | Konten rumah menarik calon klien bernilai besar | renovasi 27 Okt + video Bapak vs video studio | kunjungan profil, klik link, chat WA laporan Bapak | 7 Nov |
-| E5 | Foto TikTok jam 12:00 WIB vs 18:00 WIB | foto 24 Okt 18:00 vs foto 25 & 26 Okt 12:00 | tayangan TikTok foto | 31 Okt |
+| E5 | Foto TikTok jam 12:00 WIB menambah jangkauan tanpa mengganggu video 19:00 | foto 25 (rumah) & 26 Okt (kafe) jam 12:00; foto 24 Okt 18:00 gagal (resolusi) jadi tidak ada pembanding jam 18:00 | tayangan TikTok foto vs median video TikTok | 31 Okt |
 
 Catatan: semua video terjadwal memakai sampul frame hook (videoCoverMilliseconds 600). Jangan menjadwalkan eksperimen tambahan sebelum kuota Metricool November jelas (20 posting/bulan).

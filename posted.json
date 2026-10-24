@@ -265,6 +265,43 @@
    "nama": "lv_0_20261008215906.mp4 (21 Okt)",
    "status": "lewati",
    "catatan": "Diduga video wall panel yang sudah tayang 23 Okt."
+  },
+  {
+   "sumber": "instagram-lama",
+   "nama": "Foto kaca & cermin kafe (TikTok)",
+   "status": "gagal",
+   "tanggal_tayang": "2026-10-24 18:00 WIB",
+   "jaringan": [
+    "tiktok"
+   ],
+   "metricool_uuid": "6322867792895429464",
+   "catatan": "Ditolak TikTok: resolusi di atas 1080p. File asli tidak bisa diunduh dari Metricool, tidak dijadwalkan ulang."
+  },
+  {
+   "sumber": "drive",
+   "nama": "pbc-new-09 Acian dinding luar rumah (TikTok foto)",
+   "file_ready": "ready/2026-10-25-tiktok-acian-rumah.jpg",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-25 12:00 WIB",
+   "jaringan": [
+    "tiktok"
+   ],
+   "metricool_uuid": "-7430565960632152502",
+   "hook": "Sebelum dicat, dinding rumah melewati tahap ini",
+   "catatan": "Menggantikan foto panel lama (>1080p, pasti ditolak TikTok)"
+  },
+  {
+   "sumber": "drive",
+   "nama": "pbc-new-15 Meja bar bulat warna-warni (TikTok foto)",
+   "file_ready": "ready/2026-10-26-tiktok-meja-bar-kafe.jpg",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-26 12:00 WIB",
+   "jaringan": [
+    "tiktok"
+   ],
+   "metricool_uuid": "3855087863072574239",
+   "hook": "Meja bar warna-warni untuk kafe di Bali",
+   "catatan": "Menggantikan foto panel lama (>1080p)"
   }
  ]
 }
