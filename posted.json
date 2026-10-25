@@ -209,7 +209,7 @@
   {
    "sumber": "github",
    "path": "video/kafe-lantai-epoxy-v3.mp4",
-   "status": "terjadwal",
+   "status": "tayang",
    "tanggal_tayang": "2026-10-24 19:00 WIB",
    "jaringan": [
     "instagram",
@@ -220,12 +220,18 @@
    "metricool_uuid": "-7117019289704641619",
    "file_ready": "ready/2026-10-24-kafe-lantai-epoxy-v3.mp4",
    "hook": "Lantai kafe ini dikerjakan lapis demi lapis",
-   "gaya": "v3 hook-first (24 Okt)"
+   "gaya": "v3 hook-first (24 Okt)",
+   "link": {
+    "instagram": "https://www.instagram.com/reel/De4FsSuEsOa/",
+    "facebook": "https://facebook.com/reel/2171840430207964",
+    "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7700204169868741909",
+    "youtube": "https://www.youtube.com/shorts/qk4LjtNysCI"
+   }
   },
   {
    "sumber": "github",
    "path": "ready/2026-10-25-studio-panel-lengkung.mp4",
-   "status": "terjadwal",
+   "status": "tayang",
    "tanggal_tayang": "2026-10-25 19:00 WIB",
    "jaringan": [
     "instagram",
@@ -236,7 +242,13 @@
    "metricool_uuid": "3239833023152212220",
    "file_ready": "ready/2026-10-25-studio-panel-lengkung-v3.mp4",
    "hook": "Dinding studio ini akan melengkung semua",
-   "gaya": "v3 hook-first (24 Okt)"
+   "gaya": "v3 hook-first (24 Okt)",
+   "link": {
+    "instagram": "https://www.instagram.com/reel/De6qddpDxA7/",
+    "facebook": "https://facebook.com/reel/976947202135803",
+    "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7700575056170077460",
+    "youtube": "https://www.youtube.com/shorts/En-z67qThFY"
+   }
   },
   {
    "sumber": "drive",
