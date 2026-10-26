@@ -323,6 +323,105 @@
    "metricool_uuid": "3855087863072574239",
    "hook": "Meja bar warna-warni untuk kafe di Bali",
    "catatan": "Menggantikan foto panel lama (>1080p)"
+  },
+  {
+   "sumber": "github",
+   "nama": "carousel Kedap Suara",
+   "file_ready": "konten/pbc/2026-10-28-kedapsuara",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-28 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube",
+    "gmb"
+   ],
+   "metricool_uuid": [
+    "-1292324615184363976",
+    "-7449032533359378114",
+    "4856073472218582290"
+   ],
+   "gaya": "minggu 1 (disetujui 27 Okt)"
+  },
+  {
+   "sumber": "drive",
+   "nama": "video editan Bapak a03_lv_7631661487571881223 (apa adanya)",
+   "file_ready": "konten/pbc/2026-10-29-video-rangka",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-29 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube",
+    "gmb"
+   ],
+   "metricool_uuid": [
+    "4872223181400132619",
+    "5849639681401112799"
+   ],
+   "gaya": "minggu 1 (disetujui 27 Okt)"
+  },
+  {
+   "sumber": "github",
+   "nama": "carousel Keramik kopong",
+   "file_ready": "konten/pbc/2026-10-30-keramik",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-30 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube",
+    "gmb"
+   ],
+   "metricool_uuid": [
+    "154550740498206675",
+    "174221268725026265",
+    "-3376261971346632998"
+   ],
+   "gaya": "minggu 1 (disetujui 27 Okt)"
+  },
+  {
+   "sumber": "github",
+   "nama": "carousel Epoxy mengelupas",
+   "file_ready": "konten/pbc/2026-11-02-epoxy",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-11-02 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube",
+    "gmb"
+   ],
+   "metricool_uuid": [
+    "-1078830122191011516",
+    "6773238146506441862",
+    "6658829410476115165"
+   ],
+   "gaya": "minggu 1 (disetujui 27 Okt)"
+  },
+  {
+   "sumber": "github",
+   "nama": "carousel Retak rambut",
+   "file_ready": "konten/pbc/2026-11-03-retak",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-11-03 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube",
+    "gmb"
+   ],
+   "metricool_uuid": [
+    "-1661699298235102050",
+    "6645829616452388372",
+    "-6091698600631450924"
+   ],
+   "gaya": "minggu 1 (disetujui 27 Okt)"
   }
  ]
 }
