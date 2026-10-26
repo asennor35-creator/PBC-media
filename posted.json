@@ -1,322 +1,328 @@
 {
-  "keterangan": "Catatan posting media sosial PBC. Setiap file dari Google Drive (folder 'PBC conten') atau dari repo ini yang sudah dijadwalkan/diposting dicatat di sini supaya tidak diposting dua kali.",
-  "items": [
-    {
-      "sumber": "github",
-      "path": "video/rapat-rab-sampai-deal.mp4",
-      "status": "tayang",
-      "tanggal_tayang": "2026-10-23 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "-2066373904614404219",
-      "catatan": "Animasi rapat 5 orang, versi v3 dengan diskusi suami-istri",
-      "link": {
-        "instagram": "https://www.instagram.com/reel/De1hDX0ko4b/",
-        "facebook": "https://facebook.com/reel/1644567207327795",
-        "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7699833335295577351",
-        "youtube": "https://www.youtube.com/shorts/psDYm6XjgKE"
-      }
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1St7aUWkgoAPkHl8rY4omv3eg1UKtFHqj",
-      "nama": "Rapat_Berhadapan_Gelembung_PBC.mp4",
-      "status": "lewati",
-      "catatan": "Versi lama dari video rapat yang sudah dijadwalkan (v3). Jangan diposting."
-    },
-    {
-      "sumber": "manual",
-      "nama": "Video pemasangan wall panel studio musik",
-      "status": "tayang",
-      "tanggal_tayang": "2026-10-23 15:15 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "youtube"
-      ],
-      "metricool_uuid": "5301018872691052112",
-      "catatan": "TikTok gagal (frame rate di luar 23-60 FPS); perlu file asli diekspor ulang 1080p 30 FPS"
-    },
-    {
-      "sumber": "instagram-lama",
-      "nama": "Foto floating floor studio (TikTok)",
-      "status": "gagal",
-      "tanggal_tayang": "2026-10-23 18:00 WIB",
-      "jaringan": [
-        "tiktok"
-      ],
-      "metricool_uuid": "5181732658930666442",
-      "catatan": "Resolusi foto di atas 1080p. Perlu dikecilkan lalu dijadwalkan ulang. Foto 24, 25, 26 Okt kemungkinan sama."
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1Vh3xDT-TL5HkSs8T0JeAhD7ybP8zsCH8",
-      "nama": "VID_20260804_155719.mp4",
-      "status": "dipakai",
-      "catatan": "Digabung jadi video/kafe-lantai-epoxy.mp4"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "13WOYSSf4cifn4EHmesgg2qOKyXTNLmxc",
-      "nama": "VID_20260805_162956.mp4",
-      "status": "dipakai",
-      "catatan": "Digabung jadi video/kafe-lantai-epoxy.mp4"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1Uv3fAy7-zytkYZ_CKdfAZM_S7d7cUvci",
-      "nama": "VID_20260802_160042.mp4",
-      "status": "dipakai",
-      "catatan": "Digabung jadi video/kafe-lantai-epoxy.mp4"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1QDkF_A1sy1iOEoMVmnH_GxQ3ETPJbXis",
-      "nama": "VID-20260914-WA0012.mp4",
-      "status": "dipakai",
-      "catatan": "Digabung jadi video/studio-panel-lengkung.mp4"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1o4sYYtVnof1ZHZb1zbxs9FLy4TVxbTHr",
-      "nama": "VID-20260831-WA0007.mp4",
-      "status": "dipakai",
-      "catatan": "Digabung jadi video/studio-panel-lengkung.mp4"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1wOsxNSRfzYgX8_-qsB7Ick6cL_YVcWTV",
-      "nama": "a11_lv_7568129619509988661",
-      "file_ready": "ready/2026-10-26-progres-studio-pbc-v3.mp4",
-      "status": "terjadwal",
-      "tanggal_tayang": "2026-10-26 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "-733858424911016005",
-      "hook": "Panel gelombang ini dulunya tumpukan papan",
-      "gaya": "v3 hook-first (24 Okt)"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1H2QSHPKtMtAzIEb5wmMAh5jDwOaEyZfr",
-      "nama": "a01_VID_20260401_132303 + foto rumah selesai",
-      "file_ready": "ready/2026-10-27-renovasi-rumah-bali-v3.mp4",
-      "status": "terjadwal",
-      "tanggal_tayang": "2026-10-27 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "7762735126918152767",
-      "hook": "Rumah lama di Bali, sebelum dan sesudah",
-      "gaya": "v3 hook-first (24 Okt)"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1P-SrPz6vLX_nu-G-ieQN3Y1QBslb0w9d",
-      "nama": "a03_lv_7631661487571881223",
-      "file_ready": "ready/2026-10-28-rangka-soundproofing-v3.mp4",
-      "status": "terjadwal",
-      "tanggal_tayang": "2026-10-28 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "4344457798427758524",
-      "hook": "Studio kedap suara dimulai dari sini",
-      "gaya": "v3 hook-first (24 Okt)"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1cTt_5ixvaOSCyDfi5vz6j3z8z4F-GOSO,1_qo0Ka6qes7ZVqd3SZ2jA9PTkZUIIsCu",
-      "nama": "VID_20260926_114839 + VID_20260910_131957",
-      "file_ready": "ready/2026-10-29-panel-lengkung-biru-v3.mp4",
-      "status": "terjadwal",
-      "tanggal_tayang": "2026-10-29 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "7134492495309392719",
-      "hook": "Dipasang mengikuti garis laser",
-      "gaya": "v3 hook-first (24 Okt)"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1WE0ObBsKiVz83h4PdjH1CjOvs1LrbkmJ,1OYiSi0WBMbY_KMzlo8F9nqQWzcN-GYcP",
-      "nama": "VID_20260815_202657 + VID_20260815_050830_519",
-      "file_ready": "ready/2026-10-30-ruang-osb-meja-bar-v3.mp4",
-      "status": "terjadwal",
-      "tanggal_tayang": "2026-10-30 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "5632207572844564019",
-      "hook": "Meja bar ini dari papan OSB",
-      "gaya": "v3 hook-first (24 Okt)"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1UPmKbQ0LM64Al-xx155UGrwxNKsM5SGL",
-      "nama": "lv_7477464260688317757",
-      "file_ready": "ready/2026-11-02-rangka-rockwool-studio-v3.mp4",
-      "status": "terjadwal",
-      "tanggal_tayang": "2026-11-02 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "4537079932063465783",
-      "hook": "Lapisan ini yang meredam suara studio",
-      "gaya": "v3 hook-first (24 Okt)"
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "15JS43KLZkOaX3afZodYaSCNGwpC9EyUl,1_Wb2hpY5IJa4dt7WIpaBqYM_H6HJy8IV",
-      "nama": "VID_20261011_105022 + VID-20261005-WA0030",
-      "file_ready": "ready/2026-11-03-plafon-studio-malam-v3.mp4",
-      "status": "terjadwal",
-      "tanggal_tayang": "2026-11-03 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "-6718639826218168587",
-      "hook": "Plafon lengkung ini dipasang malam hari",
-      "gaya": "v3 hook-first (24 Okt)"
-    },
-    {
-      "sumber": "github",
-      "path": "video/kafe-lantai-epoxy-v3.mp4",
-      "status": "tayang",
-      "tanggal_tayang": "2026-10-24 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "-7117019289704641619",
-      "file_ready": "ready/2026-10-24-kafe-lantai-epoxy-v3.mp4",
-      "hook": "Lantai kafe ini dikerjakan lapis demi lapis",
-      "gaya": "v3 hook-first (24 Okt)",
-      "link": {
-        "instagram": "https://www.instagram.com/reel/De4FsSuEsOa/",
-        "facebook": "https://facebook.com/reel/2171840430207964",
-        "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7700204169868741909",
-        "youtube": "https://www.youtube.com/shorts/qk4LjtNysCI"
-      }
-    },
-    {
-      "sumber": "github",
-      "path": "ready/2026-10-25-studio-panel-lengkung.mp4",
-      "status": "tayang",
-      "tanggal_tayang": "2026-10-25 19:00 WIB",
-      "jaringan": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ],
-      "metricool_uuid": "3239833023152212220",
-      "file_ready": "ready/2026-10-25-studio-panel-lengkung-v3.mp4",
-      "hook": "Dinding studio ini akan melengkung semua",
-      "gaya": "v3 hook-first (24 Okt)",
-      "link": {
-        "instagram": "https://www.instagram.com/reel/De6qddpDxA7/",
-        "facebook": "https://facebook.com/reel/976947202135803",
-        "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7700575056170077460",
-        "youtube": "https://www.youtube.com/shorts/En-z67qThFY"
-      }
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "18ZKNrLQn5TSWWrbYQOFrHIApy7BVfbP4",
-      "nama": "#papelaiharisiap#papelaihari.mp4",
-      "status": "tunda",
-      "catatan": "Bukan pekerjaan PBC (konten hiburan satpam). Menunggu keputusan Bapak."
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1jfQ793SLWPmgpAqHgB7GgnzpEUHLVclL",
-      "nama": "lv_0_20260615005245.mp4",
-      "status": "tunda",
-      "catatan": "Video edit landscape 16:9 lama, belum dipakai."
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1QLS56ECssdN8AqkEks7ycoRRsiY8YM9i",
-      "nama": "lv_0_20261008215906.mp4 (salinan 23 Okt)",
-      "status": "lewati",
-      "catatan": "Diduga sama dengan video wall panel yang sudah tayang 23 Okt; menunggu konfirmasi Bapak."
-    },
-    {
-      "sumber": "drive",
-      "drive_id": "1gNj7zVFnOqhBfUCTzO32ynzoTkOHG7TE",
-      "nama": "lv_0_20261008215906.mp4 (21 Okt)",
-      "status": "lewati",
-      "catatan": "Diduga video wall panel yang sudah tayang 23 Okt."
-    },
-    {
-      "sumber": "instagram-lama",
-      "nama": "Foto kaca & cermin kafe (TikTok)",
-      "status": "gagal",
-      "tanggal_tayang": "2026-10-24 18:00 WIB",
-      "jaringan": [
-        "tiktok"
-      ],
-      "metricool_uuid": "6322867792895429464",
-      "catatan": "Ditolak TikTok: resolusi di atas 1080p. File asli tidak bisa diunduh dari Metricool, tidak dijadwalkan ulang."
-    },
-    {
-      "sumber": "drive",
-      "nama": "pbc-new-09 Acian dinding luar rumah (TikTok foto)",
-      "file_ready": "ready/2026-10-25-tiktok-acian-rumah.jpg",
-      "status": "tayang",
-      "tanggal_tayang": "2026-10-25 12:00 WIB",
-      "jaringan": [
-        "tiktok"
-      ],
-      "metricool_uuid": "-7430565960632152502",
-      "hook": "Sebelum dicat, dinding rumah melewati tahap ini",
-      "catatan": "Menggantikan foto panel lama (>1080p, pasti ditolak TikTok)",
-      "link": {
-        "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7700466192930196744"
-      }
-    },
-    {
-      "sumber": "drive",
-      "nama": "pbc-new-15 Meja bar bulat warna-warni (TikTok foto)",
-      "file_ready": "ready/2026-10-26-tiktok-meja-bar-kafe.jpg",
-      "status": "terjadwal",
-      "tanggal_tayang": "2026-10-26 12:00 WIB",
-      "jaringan": [
-        "tiktok"
-      ],
-      "metricool_uuid": "3855087863072574239",
-      "hook": "Meja bar warna-warni untuk kafe di Bali",
-      "catatan": "Menggantikan foto panel lama (>1080p)"
-    }
-  ]
+ "keterangan": "Catatan posting media sosial PBC. Setiap file dari Google Drive (folder 'PBC conten') atau dari repo ini yang sudah dijadwalkan/diposting dicatat di sini supaya tidak diposting dua kali.",
+ "items": [
+  {
+   "sumber": "github",
+   "path": "video/rapat-rab-sampai-deal.mp4",
+   "status": "tayang",
+   "tanggal_tayang": "2026-10-23 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "-2066373904614404219",
+   "catatan": "Animasi rapat 5 orang, versi v3 dengan diskusi suami-istri",
+   "link": {
+    "instagram": "https://www.instagram.com/reel/De1hDX0ko4b/",
+    "facebook": "https://facebook.com/reel/1644567207327795",
+    "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7699833335295577351",
+    "youtube": "https://www.youtube.com/shorts/psDYm6XjgKE"
+   }
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1St7aUWkgoAPkHl8rY4omv3eg1UKtFHqj",
+   "nama": "Rapat_Berhadapan_Gelembung_PBC.mp4",
+   "status": "lewati",
+   "catatan": "Versi lama dari video rapat yang sudah dijadwalkan (v3). Jangan diposting."
+  },
+  {
+   "sumber": "manual",
+   "nama": "Video pemasangan wall panel studio musik",
+   "status": "tayang",
+   "tanggal_tayang": "2026-10-23 15:15 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "metricool_uuid": "5301018872691052112",
+   "catatan": "TikTok gagal (frame rate di luar 23-60 FPS); perlu file asli diekspor ulang 1080p 30 FPS"
+  },
+  {
+   "sumber": "instagram-lama",
+   "nama": "Foto floating floor studio (TikTok)",
+   "status": "gagal",
+   "tanggal_tayang": "2026-10-23 18:00 WIB",
+   "jaringan": [
+    "tiktok"
+   ],
+   "metricool_uuid": "5181732658930666442",
+   "catatan": "Resolusi foto di atas 1080p. Perlu dikecilkan lalu dijadwalkan ulang. Foto 24, 25, 26 Okt kemungkinan sama."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1Vh3xDT-TL5HkSs8T0JeAhD7ybP8zsCH8",
+   "nama": "VID_20260804_155719.mp4",
+   "status": "dipakai",
+   "catatan": "Digabung jadi video/kafe-lantai-epoxy.mp4"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "13WOYSSf4cifn4EHmesgg2qOKyXTNLmxc",
+   "nama": "VID_20260805_162956.mp4",
+   "status": "dipakai",
+   "catatan": "Digabung jadi video/kafe-lantai-epoxy.mp4"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1Uv3fAy7-zytkYZ_CKdfAZM_S7d7cUvci",
+   "nama": "VID_20260802_160042.mp4",
+   "status": "dipakai",
+   "catatan": "Digabung jadi video/kafe-lantai-epoxy.mp4"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1QDkF_A1sy1iOEoMVmnH_GxQ3ETPJbXis",
+   "nama": "VID-20260914-WA0012.mp4",
+   "status": "dipakai",
+   "catatan": "Digabung jadi video/studio-panel-lengkung.mp4"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1o4sYYtVnof1ZHZb1zbxs9FLy4TVxbTHr",
+   "nama": "VID-20260831-WA0007.mp4",
+   "status": "dipakai",
+   "catatan": "Digabung jadi video/studio-panel-lengkung.mp4"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1wOsxNSRfzYgX8_-qsB7Ick6cL_YVcWTV",
+   "nama": "a11_lv_7568129619509988661",
+   "file_ready": "ready/2026-10-26-progres-studio-pbc-v3.mp4",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-26 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "-733858424911016005",
+   "hook": "Panel gelombang ini dulunya tumpukan papan",
+   "gaya": "v3 hook-first (24 Okt)"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1H2QSHPKtMtAzIEb5wmMAh5jDwOaEyZfr",
+   "nama": "a01_VID_20260401_132303 + foto rumah selesai",
+   "file_ready": "ready/2026-10-27-renovasi-rumah-bali-v3.mp4",
+   "status": "dibatalkan",
+   "tanggal_tayang": "2026-10-27 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "7762735126918152767",
+   "hook": "Rumah lama di Bali, sebelum dan sesudah",
+   "gaya": "v3 hook-first (24 Okt)",
+   "catatan": "27 Okt: dibatalkan (jadi draft di Metricool) karena editan ulang v3 dinilai berantakan dan caption tidak sesuai. Jangan diposting/dijadwalkan ulang."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1P-SrPz6vLX_nu-G-ieQN3Y1QBslb0w9d",
+   "nama": "a03_lv_7631661487571881223",
+   "file_ready": "ready/2026-10-28-rangka-soundproofing-v3.mp4",
+   "status": "dibatalkan",
+   "tanggal_tayang": "2026-10-28 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "4344457798427758524",
+   "hook": "Studio kedap suara dimulai dari sini",
+   "gaya": "v3 hook-first (24 Okt)",
+   "catatan": "27 Okt: dibatalkan (jadi draft di Metricool) karena editan ulang v3 dinilai berantakan dan caption tidak sesuai. Jangan diposting/dijadwalkan ulang."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1cTt_5ixvaOSCyDfi5vz6j3z8z4F-GOSO,1_qo0Ka6qes7ZVqd3SZ2jA9PTkZUIIsCu",
+   "nama": "VID_20260926_114839 + VID_20260910_131957",
+   "file_ready": "ready/2026-10-29-panel-lengkung-biru-v3.mp4",
+   "status": "dibatalkan",
+   "tanggal_tayang": "2026-10-29 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "7134492495309392719",
+   "hook": "Dipasang mengikuti garis laser",
+   "gaya": "v3 hook-first (24 Okt)",
+   "catatan": "27 Okt: dibatalkan (jadi draft di Metricool) karena editan ulang v3 dinilai berantakan dan caption tidak sesuai. Jangan diposting/dijadwalkan ulang."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1WE0ObBsKiVz83h4PdjH1CjOvs1LrbkmJ,1OYiSi0WBMbY_KMzlo8F9nqQWzcN-GYcP",
+   "nama": "VID_20260815_202657 + VID_20260815_050830_519",
+   "file_ready": "ready/2026-10-30-ruang-osb-meja-bar-v3.mp4",
+   "status": "dibatalkan",
+   "tanggal_tayang": "2026-10-30 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "5632207572844564019",
+   "hook": "Meja bar ini dari papan OSB",
+   "gaya": "v3 hook-first (24 Okt)",
+   "catatan": "27 Okt: dibatalkan (jadi draft di Metricool) karena editan ulang v3 dinilai berantakan dan caption tidak sesuai. Jangan diposting/dijadwalkan ulang."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1UPmKbQ0LM64Al-xx155UGrwxNKsM5SGL",
+   "nama": "lv_7477464260688317757",
+   "file_ready": "ready/2026-11-02-rangka-rockwool-studio-v3.mp4",
+   "status": "dibatalkan",
+   "tanggal_tayang": "2026-11-02 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "4537079932063465783",
+   "hook": "Lapisan ini yang meredam suara studio",
+   "gaya": "v3 hook-first (24 Okt)",
+   "catatan": "27 Okt: dibatalkan (jadi draft di Metricool) karena editan ulang v3 dinilai berantakan dan caption tidak sesuai. Jangan diposting/dijadwalkan ulang."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "15JS43KLZkOaX3afZodYaSCNGwpC9EyUl,1_Wb2hpY5IJa4dt7WIpaBqYM_H6HJy8IV",
+   "nama": "VID_20261011_105022 + VID-20261005-WA0030",
+   "file_ready": "ready/2026-11-03-plafon-studio-malam-v3.mp4",
+   "status": "dibatalkan",
+   "tanggal_tayang": "2026-11-03 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "-6718639826218168587",
+   "hook": "Plafon lengkung ini dipasang malam hari",
+   "gaya": "v3 hook-first (24 Okt)",
+   "catatan": "27 Okt: dibatalkan (jadi draft di Metricool) karena editan ulang v3 dinilai berantakan dan caption tidak sesuai. Jangan diposting/dijadwalkan ulang."
+  },
+  {
+   "sumber": "github",
+   "path": "video/kafe-lantai-epoxy-v3.mp4",
+   "status": "tayang",
+   "tanggal_tayang": "2026-10-24 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "-7117019289704641619",
+   "file_ready": "ready/2026-10-24-kafe-lantai-epoxy-v3.mp4",
+   "hook": "Lantai kafe ini dikerjakan lapis demi lapis",
+   "gaya": "v3 hook-first (24 Okt)",
+   "link": {
+    "instagram": "https://www.instagram.com/reel/De4FsSuEsOa/",
+    "facebook": "https://facebook.com/reel/2171840430207964",
+    "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7700204169868741909",
+    "youtube": "https://www.youtube.com/shorts/qk4LjtNysCI"
+   }
+  },
+  {
+   "sumber": "github",
+   "path": "ready/2026-10-25-studio-panel-lengkung.mp4",
+   "status": "tayang",
+   "tanggal_tayang": "2026-10-25 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "metricool_uuid": "3239833023152212220",
+   "file_ready": "ready/2026-10-25-studio-panel-lengkung-v3.mp4",
+   "hook": "Dinding studio ini akan melengkung semua",
+   "gaya": "v3 hook-first (24 Okt)",
+   "link": {
+    "instagram": "https://www.instagram.com/reel/De6qddpDxA7/",
+    "facebook": "https://facebook.com/reel/976947202135803",
+    "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7700575056170077460",
+    "youtube": "https://www.youtube.com/shorts/En-z67qThFY"
+   }
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "18ZKNrLQn5TSWWrbYQOFrHIApy7BVfbP4",
+   "nama": "#papelaiharisiap#papelaihari.mp4",
+   "status": "tunda",
+   "catatan": "Bukan pekerjaan PBC (konten hiburan satpam). Menunggu keputusan Bapak."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1jfQ793SLWPmgpAqHgB7GgnzpEUHLVclL",
+   "nama": "lv_0_20260615005245.mp4",
+   "status": "tunda",
+   "catatan": "Video edit landscape 16:9 lama, belum dipakai."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1QLS56ECssdN8AqkEks7ycoRRsiY8YM9i",
+   "nama": "lv_0_20261008215906.mp4 (salinan 23 Okt)",
+   "status": "lewati",
+   "catatan": "Diduga sama dengan video wall panel yang sudah tayang 23 Okt; menunggu konfirmasi Bapak."
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1gNj7zVFnOqhBfUCTzO32ynzoTkOHG7TE",
+   "nama": "lv_0_20261008215906.mp4 (21 Okt)",
+   "status": "lewati",
+   "catatan": "Diduga video wall panel yang sudah tayang 23 Okt."
+  },
+  {
+   "sumber": "instagram-lama",
+   "nama": "Foto kaca & cermin kafe (TikTok)",
+   "status": "gagal",
+   "tanggal_tayang": "2026-10-24 18:00 WIB",
+   "jaringan": [
+    "tiktok"
+   ],
+   "metricool_uuid": "6322867792895429464",
+   "catatan": "Ditolak TikTok: resolusi di atas 1080p. File asli tidak bisa diunduh dari Metricool, tidak dijadwalkan ulang."
+  },
+  {
+   "sumber": "drive",
+   "nama": "pbc-new-09 Acian dinding luar rumah (TikTok foto)",
+   "file_ready": "ready/2026-10-25-tiktok-acian-rumah.jpg",
+   "status": "tayang",
+   "tanggal_tayang": "2026-10-25 12:00 WIB",
+   "jaringan": [
+    "tiktok"
+   ],
+   "metricool_uuid": "-7430565960632152502",
+   "hook": "Sebelum dicat, dinding rumah melewati tahap ini",
+   "catatan": "Menggantikan foto panel lama (>1080p, pasti ditolak TikTok)",
+   "link": {
+    "tiktok": "https://www.tiktok.com/@pratamabuildconstruction/video/7700466192930196744"
+   }
+  },
+  {
+   "sumber": "drive",
+   "nama": "pbc-new-15 Meja bar bulat warna-warni (TikTok foto)",
+   "file_ready": "ready/2026-10-26-tiktok-meja-bar-kafe.jpg",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-26 12:00 WIB",
+   "jaringan": [
+    "tiktok"
+   ],
+   "metricool_uuid": "3855087863072574239",
+   "hook": "Meja bar warna-warni untuk kafe di Bali",
+   "catatan": "Menggantikan foto panel lama (>1080p)"
+  }
+ ]
 }
