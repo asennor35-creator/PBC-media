@@ -1,0 +1,49 @@
+{
+  "keterangan": "Analisis harian PBC (Metricool + klik WA website). Satu entri per hari kerja. reel_view_rate = % penonton Instagram yang bertahan lewat 3 detik (IGRE28).",
+  "entri": [
+    {
+      "tanggal": "2026-10-26",
+      "periode": "2026-10-19 s/d 2026-10-26 07:00 WIB",
+      "program_hari": "Hari 6/30, Minggu 1: Fondasi",
+      "posting_error_3_hari": [
+        {"tanggal": "2026-10-24 18:00", "jaringan": "tiktok", "konten": "Foto kaca & cermin kafe", "penyebab": "resolusi di atas 1080p (sudah dicatat, tidak dijadwalkan ulang)"}
+      ],
+      "instagram_reels": [
+        {"tayang": "2026-10-25 19:03", "hook": "Dinding studio ini akan melengkung semua", "gaya": "v3", "views": 150, "reach": 121, "reel_view_rate": 68.3, "avg_watch_s": 6.70, "likes": 0, "saved": 0, "shares": 0, "comments": 0},
+        {"tayang": "2026-10-24 19:04", "hook": "Lantai kafe ini dikerjakan lapis demi lapis", "gaya": "v3", "views": 194, "reach": 171, "reel_view_rate": 56.3, "avg_watch_s": 6.63, "likes": 1, "saved": 0, "shares": 0, "comments": 0},
+        {"tayang": "2026-10-23 19:05", "hook": "Rapat proyek transparan (animasi AI)", "gaya": "lama", "views": 58, "reach": 51, "reel_view_rate": 37.7, "avg_watch_s": 5.95, "likes": 2, "saved": 0, "shares": 0, "comments": 0},
+        {"tayang": "2026-10-23 15:16", "hook": "Wall panel studio (gaya iklan)", "gaya": "lama", "views": 30, "reach": 25, "reel_view_rate": 23.1, "avg_watch_s": 4.82, "likes": 0, "saved": 0, "shares": 0, "comments": 0}
+      ],
+      "instagram_akun": {"followers": 95, "followers_gained_7h": 0, "reach_harian": {"2026-10-23": 63, "2026-10-24": 179, "2026-10-25": 125}},
+      "tiktok": [
+        {"tayang": "2026-10-25 19:04", "jenis": "video", "hook": "Dinding studio ini akan melengkung semua", "views": 209, "likes": 0, "shares": 2, "durasi_s": 14},
+        {"tayang": "2026-10-25 12:02", "jenis": "foto", "hook": "Sebelum dicat, dinding rumah melewati tahap ini", "views": 169, "likes": 1, "shares": 0},
+        {"tayang": "2026-10-24 19:04", "jenis": "video", "hook": "Lantai kafe ini dikerjakan lapis demi lapis", "views": 752, "likes": 6, "shares": 1, "durasi_s": 16},
+        {"tayang": "2026-10-23 19:05", "jenis": "video", "hook": "Rapat proyek transparan (animasi)", "views": 433, "likes": 6, "shares": 0, "durasi_s": 40}
+      ],
+      "tiktok_catatan": "full watched rate, FYP %, search %, avg time watched kosong (null) dari Metricool untuk semua video",
+      "tiktok_followers": 869,
+      "facebook_reels": [
+        {"tayang": "2026-10-25", "hook": "Dinding studio ini akan melengkung semua", "views": 212, "avg_watch_s": 6},
+        {"tayang": "2026-10-24", "hook": "Lantai kafe ini dikerjakan lapis demi lapis", "views": 275, "avg_watch_s": 6},
+        {"tayang": "2026-10-23 19:00", "hook": "Rapat proyek (animasi)", "views": 258, "avg_watch_s": 3},
+        {"tayang": "2026-10-23 15:15", "hook": "Wall panel (gaya iklan, POST)", "views": 3, "avg_watch_s": 2}
+      ],
+      "youtube": "tidak ada data dari Metricool (baris kosong)",
+      "wa_klik_kemarin": 3,
+      "wa_klik_kemarin_rincian": {"lp-sistem": 2, "lp-media": 1},
+      "wa_klik_7hari": 6,
+      "wa_klik_7hari_rincian": {"lp-sistem": 3, "lp-pbc": 1, "lp-media": 2},
+      "wa_bagian_terbanyak": "lp-sistem (halaman /abraham)",
+      "rata2_reel_view_rate_7hari": 46.4,
+      "rata2_reel_view_rate_v3": 62.3,
+      "baseline_reel_view_rate": 31,
+      "pelajaran": [
+        "Gaya v3 (hook di detik 0, tanpa intro) menaikkan % bertahan lewat 3 detik dari 23-38% (gaya lama) ke 56-68%; E1 (target >=45%) sejauh ini tercapai pada 2 dari 2 video.",
+        "Hook dengan janji perubahan visual ('akan melengkung semua') paling menahan penonton (68%), tetapi topik kafe/epoxy mendapat tayangan terbanyak (IG 194, TikTok 752, FB 275).",
+        "Interaksi (simpan, bagikan, komentar) masih nol di IG; pertanyaan A/B di caption belum memancing komentar. Uji CTA kata kunci (E3) mulai 27 Okt.",
+        "Foto TikTok jam 12:00 mendapat 169 tayangan, di bawah video (209-752)."
+      ]
+    }
+  ]
+}
