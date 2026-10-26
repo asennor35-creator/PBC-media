@@ -422,6 +422,46 @@
     "-6091698600631450924"
    ],
    "gaya": "minggu 1 (disetujui 27 Okt)"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1KQllo2O4Hx1grEMd9_WebuZCHRZ49A9k",
+   "nama": "lv_0_20261027035331.mp4 (renovasi kafe, editan Bapak, apa adanya)",
+   "file_ready": "konten/pbc/2026-10-31-video-kafe",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-10-31 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube",
+    "gmb"
+   ],
+   "metricool_uuid": [
+    "6500082922206482013",
+    "-9165102197857629261"
+   ],
+   "website": "beranda: Video dari lapangan"
+  },
+  {
+   "sumber": "drive",
+   "drive_id": "1M1juL41p9hi3kYAo2FcHUc8nV6qkJ3Ho",
+   "nama": "lv_0_20261027033946.mp4 (lantai OSB ruang usaha, editan Bapak, apa adanya)",
+   "file_ready": "konten/pbc/2026-11-01-video-osb",
+   "status": "terjadwal",
+   "tanggal_tayang": "2026-11-01 19:00 WIB",
+   "jaringan": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube",
+    "gmb"
+   ],
+   "metricool_uuid": [
+    "-6939239661781696394",
+    "7968928750878147461"
+   ],
+   "website": "beranda: Video dari lapangan"
   }
  ]
 }
