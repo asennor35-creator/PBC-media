@@ -367,7 +367,7 @@
    "sumber": "github",
    "nama": "carousel Keramik kopong",
    "file_ready": "konten/pbc/2026-10-30-keramik",
-   "status": "terjadwal",
+   "status": "ditunda",
    "tanggal_tayang": "2026-10-30 19:00 WIB",
    "jaringan": [
     "instagram",
@@ -381,7 +381,8 @@
     "174221268725026265",
     "-3376261971346632998"
    ],
-   "gaya": "minggu 1 (disetujui 27 Okt)"
+   "gaya": "minggu 1 (disetujui 27 Okt)",
+   "catatan": "27 Okt: ditahan (draft) atas permintaan Bapak; foto teras/dinding batu alam bukan keramik. Tunggu foto keramik dari Bapak."
   },
   {
    "sumber": "github",
