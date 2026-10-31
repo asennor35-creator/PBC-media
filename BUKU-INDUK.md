@@ -89,3 +89,10 @@ Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak
   - Rancangan Phase 2 (X1 hook, X2 format, X3 CTA) + kandidat KOL (koleksi `kreator` C01–C19 di Hub) + rancangan Meta Ads ada di tab "Progres Phase 2" dokumen audit.
   - X2 berjalan alami 2–6 Nov (slide K014/K015 vs video K016–K018), dinilai 13 Nov.
   - Menunggu approval Bapak sebelum implementasi.
+- 1 Nov (disetujui Bapak): link WA berkode aktif.
+  - Snippet #13: pratamabuild.id/wa/{KODE} → wa.me + pesan berkode. Klik dicatat di wa-stats sebagai "wa-{kode}"; kode UJI* tidak dihitung.
+  - Tombol WA di /links = /wa/BIO.
+  - Caption 1–6 Nov memuat pratamabuild.id/wa/K0xx.
+  - Konten baru wajib pakai format ini.
+- Site Kit & Meta Ads: menunggu Bapak.
+- KOL & iklan: DITUNDA, jangan kontak/bayar/luncurkan.
