@@ -1,7 +1,7 @@
 # Buku Induk PBC (baca ini dulu di setiap obrolan baru)
 
 Diperbarui: 31 Okt 2026. Pemilik: Abraham Norasen (hanya pakai HP Android, pesan suara Bahasa Indonesia).
-Aturan hemat: baca file ini saja, jangan membaca ulang semua file/riwayat. Kerjakan langsung, laporan singkat.
+Aturan hemat (WAJIB): baca file ini saja, jangan membaca ulang semua file/riwayat. Jangan banyak bertanya; ambil keputusan wajar lalu kerjakan. Balasan ke Bapak maksimal 3–5 baris, langsung hasil. Kerja tetap lengkap dan dicek. Satu obrolan = satu urusan.
 
 ## Akses dan alat
 - Metricool brand 7567559, zona Asia/Jakarta. Kanal: IG, FB, TikTok, YouTube, Google Business (gmb).
