@@ -57,3 +57,15 @@ Aturan hemat (WAJIB): baca file ini saja, jangan membaca ulang semua file/riwaya
 4. Rencana 100 juta / 30 hari: iklan tertarget, arsitek/agen, follow-up lead (lead peredam Kuta).
 5. Konfirmasi: foto upload "file_0000*.png" asli atau hasil edit AI?
 6. Cek kenapa klik website 0 tercatat 28–30 Okt.
+
+## Rencana desain ulang website (31 Okt)
+Referensi Bapak: firmagroup.com.au (rekaman layar di Drive "PBC conten": Screen_Recording_20261031_205723.mp4).
+Ciri gayanya:
+- Latar gelap polos (maroon), krem untuk bagian terang.
+- Aksen 1 warna, teks tipis sans-serif.
+- Logo kecil, menu "Menu ↓" layar penuh.
+- Nama besar di bawah layar, foto proyek besar bertingkat.
+- Daftar proyek: foto, nama, lokasi, label pil.
+- Daftar layanan bergaris tipis, form "I am a ..." (radio).
+- Footer: email, alamat, ikon sosial.
+Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak pilih dulu, baru website diubah.
