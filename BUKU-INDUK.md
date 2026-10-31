@@ -41,7 +41,9 @@ Aturan hemat (WAJIB): baca file ini saja, jangan membaca ulang semua file/riwaya
 - 2 Nov epoxy (IG reel musik, FB/YT, TikTok foto, gmb).
 - 3 Nov retak (sama).
 - Keramik: draft, tunggu foto keramik asli + "oke keramik" dari Bapak.
-- 4–7 Nov kosong: perlu video proses dengan hook.
+- 4 Nov plafon, 5 Nov rockwool, 6 Nov panel lengkung: video CapCut Bapak apa adanya (IG/FB/TikTok/YT 19.00 WIB + gmb 19.10).
+- 7 Nov kosong: perlu video baru dari Bapak.
+- Hari kosong sebelumnya: 27 Okt dan 30 Okt (jangkauan IG jatuh ke 1–43/hari).
 - IG pribadi: index.json habis 2 Nov, perlu konten minggu 2.
 
 ## Tugas tertunda
