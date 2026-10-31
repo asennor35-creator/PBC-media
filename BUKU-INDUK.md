@@ -101,3 +101,11 @@ Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak
   - Total Rp235.132, 98 klik link, 1 chat WA.
   - Pelajaran: boost dengan tujuan engagement/traffic hampir tidak menghasilkan chat, jadi pilot memakai tujuan Pesan WhatsApp.
 - Site Kit: data terlihat di browser Bapak, tapi lewat REST tidak bisa (user tidak terautentikasi via app password). Menunggu pilihan Bapak: snippet baca-saja atau screenshot mingguan.
+
+## PBC Marketing OS mandiri (disetujui 1 Nov: paket HEMAT, penjadwalan A, Fase 0–1)
+- Rancangan: https://claude.ai/artifact/1nsASyrsYa3JjhTtCibDzg
+- Repo privat asennor35-creator/pbc-os (GitHub Actions, tanpa AI). Bot Telegram @pbc_marketing_os_bot; secret TG_TOKEN diisi Bapak; chat ID di data/config.json.
+- Fase 1 aktif 1 Nov: harian.yml 06.15 WITA → album IG pribadi + caption + agenda PBC (data/jadwal.json, perbarui tiap minggu). Uji 2 Nov berhasil.
+- Dari sesi Claude: workflow dijalankan via `gh api -X POST repos/.../actions/workflows/X/dispatches`; log tidak bisa dibaca, pakai annotations check-run; secret tidak bisa diset (Bapak yang isi).
+- Uji berdampingan 3 pagi (2–4 Nov) dengan tugas Claude 06.45; tugas Claude dimatikan hanya setelah approval.
+- Syarat Bapak: jangan sentuh ERP/DB produksi, Marketing OS terpisah dari ERP, backup sebelum perubahan, tanpa biaya/langganan, tanpa iklan/kreator, lapor & minta approval tiap fase.
