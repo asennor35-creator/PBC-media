@@ -71,3 +71,17 @@ Ciri gayanya:
 - Daftar layanan bergaris tipis, form "I am a ..." (radio).
 - Footer: email, alamat, ikon sosial.
 Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak pilih dulu, baru website diubah.
+
+## PBC AI Marketing Automation (disetujui 1 Nov)
+- Dokumen audit + laporan Phase 1: https://claude.ai/artifact/JBdgbjn8EqxnaondWETNSb
+- PBC Marketing Hub (database + form lead + dashboard): https://claude.ai/artifact/38Ym5bP8rQoj5jsmF7w5QV, slug 11400e76-9262-4494-ad12-587794631572.
+  - Koleksi: konten/K###, metrik, lead, laporan, config/main (next_kid).
+  - Akses hanya admin.
+- Link WA berkode: wa.me/6285745026574?text=Halo PBC, saya mau tanya soal proyek. (K0xx)
+- Laporan mingguan: tugas terjadwal Jumat 08.47 WITA (trig_01WnoVVGtMcMrEEuAEfdQsnr).
+- Keputusan Bapak:
+  - Posting 1–6 Nov tetap otomatis.
+  - Konten setelah 6 Nov WAJIB approval Bapak sebelum dijadwalkan.
+  - Meta Ads pilot Rp50rb/hari x 14 hari (maks Rp700rb), diluncurkan hanya setelah persetujuan akhir.
+  - Tidak ada biaya atau perubahan produksi tanpa approval.
+- Status: Phase 1 selesai, menunggu tinjauan Bapak. JANGAN mulai Phase 2 sebelum disetujui.
