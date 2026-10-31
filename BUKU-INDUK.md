@@ -96,3 +96,8 @@ Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak
   - Konten baru wajib pakai format ini.
 - Site Kit & Meta Ads: menunggu Bapak.
 - KOL & iklan: DITUNDA, jangan kontak/bayar/luncurkan.
+- 1 Nov: Meta Ads tersambung ke Metricool (akun act_726516765353083), dipakai hanya untuk membaca.
+  - 3 boost lama tersimpan di koleksi Hub `iklan`.
+  - Total Rp235.132, 98 klik link, 1 chat WA.
+  - Pelajaran: boost dengan tujuan engagement/traffic hampir tidak menghasilkan chat, jadi pilot memakai tujuan Pesan WhatsApp.
+- Site Kit: data terlihat di browser Bapak, tapi lewat REST tidak bisa (user tidak terautentikasi via app password). Menunggu pilihan Bapak: snippet baca-saja atau screenshot mingguan.
