@@ -1,5 +1,5 @@
 // PBC Marketing OS - service worker: kerangka aplikasi tersedia walau sinyal lemah. Data tidak disimpan di sini.
-const CACHE = "pbc-app-v1";
+const CACHE = "pbc-app-v2";
 const KERANGKA = ["./", "./index.html", "./manifest.webmanifest", "./ikon-192.png", "./ikon-512.png"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(KERANGKA))); self.skipWaiting(); });
 self.addEventListener("activate", e => {
