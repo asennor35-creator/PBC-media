@@ -1,0 +1,1738 @@
+{
+ "keterangan": "Pustaka foto proyek PBC untuk Content Director. Hanya foto dengan terverifikasi=true yang boleh dipakai. Label (proyek, lokasi, layanan, material, tahap) diusulkan Claude dan WAJIB dikonfirmasi Bapak. Jangan mengarang.",
+ "versi": 1,
+ "diperbarui": "2026-11-02",
+ "kategori_layanan": [
+  "studio_musik",
+  "peredam",
+  "interior",
+  "renovasi_rumah",
+  "bangun_rumah",
+  "umum"
+ ],
+ "dikecualikan": [
+  {
+   "sumber": "1sna6tWatMZfIxFRDjZ4dmML7Yq5gpdZF__IMG_20260516_154259_063.jpg",
+   "alasan": "dokumen/nota berisi harga, bukan foto proyek"
+  }
+ ],
+ "belum_diimpor": "±18 foto kamera lain di Drive 'PBC conten' gagal diunduh lewat konektor (ukuran); foto file_*.png (diduga hasil edit AI) & screenshot tidak diimpor",
+ "foto": [
+  {
+   "id": "F001",
+   "path": "foto/asli/F001_20260610.jpg",
+   "sha256": "a488559ac2b311b39a8f861529fd691e8d1021fc7a681e0973532069b94f0b25",
+   "sumber": {
+    "drive_id": "11Bav7Vu-APvuKboX3rdhaIozBNshAxpe",
+    "nama": "IMG_20260610_150105_052.jpg",
+    "sha256_asli": "aa759747262d00d9d332cb36aa0fdb9c47023785506724ce7b6ee31e933fc156",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-10",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "peredam",
+   "material_utama": "rockwool",
+   "material": [
+    "rockwool"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Papan rockwool dibuka dari kemasan di area kafe, persiapan pemasangan peredam",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 491.1,
+    "kecerahan": 107.7,
+    "persen_gelap": 7.4,
+    "dhash": "cecef6f6f2e96312"
+   }
+  },
+  {
+   "id": "F002",
+   "path": "foto/asli/F002_20260905.jpg",
+   "sha256": "ee275e5c709e6628932195c77692671941e13f7834429a19e85d0ce8ddfa1482",
+   "sumber": {
+    "drive_id": "11tXKU57rzA7uCGZ7hjANh6WnX4L1Wgvt",
+    "nama": "IMG-20260905-WA0036.jpg",
+    "sha256_asli": "a9785eb8de8973e464848d23289b69de763faae39cf26853fa1a0f890134628c",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-09-05",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "interior",
+   "material_utama": "gypsum",
+   "material": [
+    "gypsum"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Dinding gypsum didempul, perancah terpasang",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1161,
+    "tinggi": 2048,
+    "skor_tajam": 602.7,
+    "kecerahan": 158.3,
+    "persen_gelap": 2.9,
+    "dhash": "ea3ab8b29093f1ec"
+   }
+  },
+  {
+   "id": "F003",
+   "path": "foto/asli/F003_20260523.jpg",
+   "sha256": "e2bc2ae17532a00e70bafa9457c453f27fd9caebf5d010d8d9fb660e3faa9490",
+   "sumber": {
+    "drive_id": "12TA0LrIsPMJ9-FbyLfWIeAi2LdiyZvzP",
+    "nama": "IMG_20260523_155006_768.jpg",
+    "sha256_asli": "c3b200d613ce30cca42782fdaed7360a9bbe56e0f1c7b494cfadfe885c8c8965",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-05-23",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "renovasi_rumah",
+   "material_utama": "acian",
+   "material": [
+    "acian"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Tukang mengaci dinding dalam rumah",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 941.1,
+    "kecerahan": 78.8,
+    "persen_gelap": 22.5,
+    "dhash": "e1e73e1839284dc7"
+   }
+  },
+  {
+   "id": "F004",
+   "path": "foto/asli/F004_20260615.jpg",
+   "sha256": "5f6cc2dc1e5b2e312a87f8dbc61ae512581ba4c80f02cc9fcee3bd067042c975",
+   "sumber": {
+    "drive_id": "14UU7NTictf9b41tDWFqz-yzBAvS1psH6",
+    "nama": "IMG_20260615_095836_902.jpg",
+    "sha256_asli": "a1f57abda1ba64594acc4f2c90670fa69eaf37791cf22208e97e16645ae01b4a",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-15",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rangka_kayu",
+   "material": [
+    "rangka kayu",
+    "rangka lantai kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Rangka lantai dan rangka dinding kayu di ruang studio",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 877.8,
+    "kecerahan": 114.1,
+    "persen_gelap": 8.6,
+    "dhash": "9c5f1e3c64d39091"
+   }
+  },
+  {
+   "id": "F005",
+   "path": "foto/asli/F005_20260619.jpg",
+   "sha256": "497cb08e0d333a579ea008fa5f87685d5a888ad1a9f4c500e1fd77ef266fa7f3",
+   "sumber": {
+    "drive_id": "1AN9PVvpSMclUV3oox6IkAbe5L5L1ATf6",
+    "nama": "IMG_20260619_160709_537.jpg",
+    "sha256_asli": "758ef46a70d596cc30b223686d541b3fb371df8e61d919f8b3231d2c5792a79b",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-19",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rockwool",
+   "material": [
+    "rockwool",
+    "rangka kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Rockwool terpasang di antara rangka kayu dinding",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 452.6,
+    "kecerahan": 107.4,
+    "persen_gelap": 16.6,
+    "dhash": "2b993f393e7c7ffe"
+   }
+  },
+  {
+   "id": "F006",
+   "path": "foto/asli/F006_20260620.jpg",
+   "sha256": "7cfa8e7402a352cedb74c7b3cbfc448c507b323ba61ad88f78faf42d8ab5bd7b",
+   "sumber": {
+    "drive_id": "1AUfPTy_Dr1qPmUjnuvQGk19QDMrw28nU",
+    "nama": "IMG_20260620_085450_706.jpg",
+    "sha256_asli": "14057b24c06870a7fe89805b0d7d9538d20be1cb950693a44f499bbff4e51d34",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-20",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "gypsum_soundshield",
+   "material": [
+    "gypsum soundshield",
+    "rockwool"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Pemasangan gypsum Soundshield di atas lapisan rockwool",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 893.7,
+    "kecerahan": 121.0,
+    "persen_gelap": 8.1,
+    "dhash": "6e2e8f4fce8973f2"
+   }
+  },
+  {
+   "id": "F007",
+   "path": "foto/asli/F007_20260426.jpg",
+   "sha256": "d8ab47377dba364ae060080a6f5691a75869bb4b3cc3495f7229a6f506819c5d",
+   "sumber": {
+    "drive_id": "1B0lVfyu6qerM7_UGEpe6bdpe0yTXMoxM",
+    "nama": "IMG_20260426_153026_881.jpg",
+    "sha256_asli": "681257c8194a2d5cc46c276d4964f7d85765866c81989a4957d51bf78db90072",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-04-26",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "bangun_rumah",
+   "material_utama": "plester",
+   "material": [
+    "plester",
+    "bata"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Plester dinding luar rumah baru",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 1109.2,
+    "kecerahan": 94.1,
+    "persen_gelap": 12.4,
+    "dhash": "3078dcdd9f36b113"
+   }
+  },
+  {
+   "id": "F008",
+   "path": "foto/asli/F008_20260620.jpg",
+   "sha256": "ecb888809be9967403c0ddbc86d3380e89fec523e88f396276a766c61ad1eee5",
+   "sumber": {
+    "drive_id": "1BzkoaC0p-t3xSbmwHE7keLlc_0X2Hkai",
+    "nama": "IMG_20260620_084526_848.jpg",
+    "sha256_asli": "09dea355893adece0a0d01570d85c5204107250766533b1670f5ff9b07d9bb7f",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-20",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "gypsum_soundshield",
+   "material": [
+    "gypsum soundshield",
+    "rockwool"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Dua tukang memasang lembar Soundshield di dinding rockwool",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 622.7,
+    "kecerahan": 128.4,
+    "persen_gelap": 8.8,
+    "dhash": "06971f979f3d2e27"
+   }
+  },
+  {
+   "id": "F009",
+   "path": "foto/asli/F009_20260203.jpg",
+   "sha256": "de3e7948f270799306884d6b26e4d97f2fada6a1910c9a98224687f4ded7af77",
+   "sumber": {
+    "drive_id": "1CJCxPXQWJ8V5dZYWMP4wpXe62RqgdxAl",
+    "nama": "IMG-20260203-WA0040.jpg",
+    "sha256_asli": "456adce9bf2ebb421497edcce329a29f31b3b6734c40f9337ef66f9dfb94badc",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-02-03",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "bangun_rumah",
+   "material_utama": "pekerjaan_awal",
+   "material": [],
+   "tahap": "proses",
+   "deskripsi": "Tim di lokasi proyek dekat villa putih, area tanah/puing",
+   "ragu": "Jenis pekerjaan tidak jelas dari foto",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1152,
+    "tinggi": 2048,
+    "skor_tajam": 3181.2,
+    "kecerahan": 143.6,
+    "persen_gelap": 12.3,
+    "dhash": "7e56228d8d0e1d9f"
+   }
+  },
+  {
+   "id": "F010",
+   "path": "foto/asli/F010_20260607.jpg",
+   "sha256": "ceae37687bab7c1a4268f70fd324abea6b218982cdcf7573a01a5b276f207c4a",
+   "sumber": {
+    "drive_id": "1D8A-yQ34WaEq-lZD2-kkH2fj7Sqxcqrg",
+    "nama": "IMG_20260607_163615_453.jpg",
+    "sha256_asli": "39a01ce03c28f2c152035b3cefe9d25cdcc19abd145b8ddcfb6fe736a1e96f2f",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-07",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "multipleks_lantai",
+   "material": [
+    "multipleks"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Lantai multipleks terpasang di ruang panjang",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 295.5,
+    "kecerahan": 108.4,
+    "persen_gelap": 7.1,
+    "dhash": "97d7cd25e6fbffff"
+   }
+  },
+  {
+   "id": "F011",
+   "path": "foto/asli/F011_20260624.jpg",
+   "sha256": "bc51dc0a729a398ebc4a3cef3c41d9912cfe8f3a6d2b7ca9ec87fbffe29fdb44",
+   "sumber": {
+    "drive_id": "1DPM97pCtFL4jdOsRYWxVrZfnhPnAIX6e",
+    "nama": "IMG_20260624_131620_280.jpg",
+    "sha256_asli": "660d56d271b07a0b049b4e28bc8b1920c2e044536e1d209823fd4933f2852998",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-24",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "gypsum_soundshield",
+   "material": [
+    "gypsum soundshield",
+    "rangka hollow"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Dinding Soundshield didempul, rangka hollow plafon disiapkan",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 601.5,
+    "kecerahan": 95.6,
+    "persen_gelap": 13.5,
+    "dhash": "e36163162677666e"
+   }
+  },
+  {
+   "id": "F012",
+   "path": "foto/asli/F012_20260611.jpg",
+   "sha256": "781f6662eac54877336b1e333697c35ac64e0fcd49cb21c639584b05031f8172",
+   "sumber": {
+    "drive_id": "1EAASKP91pRmBlhMzsgp1hNQGbIOGBB1O",
+    "nama": "IMG_20260611_090318_488.jpg",
+    "sha256_asli": "e463b7d909d04073054263ac684a73852d35544262790320c5a556faaf35dcfc",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-11",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "peredam",
+   "material_utama": "rockwool",
+   "material": [
+    "rockwool"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Tim membuka papan rockwool di area kafe",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 558.1,
+    "kecerahan": 102.9,
+    "persen_gelap": 9.3,
+    "dhash": "e05113e140d4cee6"
+   }
+  },
+  {
+   "id": "F013",
+   "path": "foto/asli/F013_20260617.jpg",
+   "sha256": "c21a643b2f6030316f208bcdca69196020ab50a5d96b738838dc6c6ae2ee54a3",
+   "sumber": {
+    "drive_id": "1EQQtZKhH6AxPERYb-mfgXeFKg1EahyFM",
+    "nama": "IMG_20260617_143257_618.jpg",
+    "sha256_asli": "c81d3203efca142843add33de4893f1be042e6d9e94f09aec18c484a18eb1965",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-17",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rockwool",
+   "material": [
+    "rockwool",
+    "rangka kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Tukang memasang rockwool di rangka kayu dinding",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 212.5,
+    "kecerahan": 100.0,
+    "persen_gelap": 10.9,
+    "dhash": "1391b4b19406c4c4"
+   }
+  },
+  {
+   "id": "F014",
+   "path": "foto/asli/F014_20260517.jpg",
+   "sha256": "eae72feded1de95dc9587772ca2ed13762e6262cc29682c94a73468d45ee6d59",
+   "sumber": {
+    "drive_id": "1Ff_Ob16bvBRr2HVC93nWV4Cx_QeSkRvy",
+    "nama": "IMG_20260517_211746_398.jpg",
+    "sha256_asli": "0320916d575965700213f509c3ffa27a759baf997c78891a975e709848398cf6",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-05-17",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "interior",
+   "material_utama": "ubin_dinding",
+   "material": [
+    "ubin motif marmer"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Pemasangan ubin dinding motif marmer",
+   "ragu": "Keramik atau granit belum pasti",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 124.6,
+    "kecerahan": 111.5,
+    "persen_gelap": 13.6,
+    "dhash": "7cc79fbf1f1f9f5f"
+   }
+  },
+  {
+   "id": "F015",
+   "path": "foto/asli/F015_20260905.jpg",
+   "sha256": "a310009416500e275cf046767c66ba861e4ce5a42c5f82772011d3657e729d61",
+   "sumber": {
+    "drive_id": "1Fs0on0-Ibiz-8rlWg_-ZxN1aNrXjJapS",
+    "nama": "IMG-20260905-WA0030.jpg",
+    "sha256_asli": "af11e68445bad29b5ca3ee6d1b23e8fbc5a7753df0a44bf7f6dc132c686c62f8",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-09-05",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "interior",
+   "material_utama": "gypsum",
+   "material": [
+    "gypsum"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Dinding dan plafon gypsum didempul, perancah terpasang",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1161,
+    "tinggi": 2048,
+    "skor_tajam": 366.1,
+    "kecerahan": 139.9,
+    "persen_gelap": 3.2,
+    "dhash": "3838b9e88dcccdcc"
+   }
+  },
+  {
+   "id": "F016",
+   "path": "foto/asli/F016_20260616.jpg",
+   "sha256": "2a6c4b5d995825380fa924034d1976bba105029a533b35b91d3cdaef1abe9c2c",
+   "sumber": {
+    "drive_id": "1GQecJTTXe6eS6gCCLWIUxxdjQPz3KmZv",
+    "nama": "IMG_20260616_124249_793.jpg",
+    "sha256_asli": "7c2e49dcb18b3fe544e68267bd693d1a871464529fe83517356c47ade493a1fa",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-16",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rangka_kayu",
+   "material": [
+    "rangka kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Rangka kayu dinding sepanjang ruang, tim bekerja",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 2048,
+    "tinggi": 1536,
+    "skor_tajam": 873.0,
+    "kecerahan": 104.6,
+    "persen_gelap": 13.9,
+    "dhash": "591913161e971979"
+   }
+  },
+  {
+   "id": "F017",
+   "path": "foto/asli/F017_20260510.jpg",
+   "sha256": "73f9af93871e6101152128879835c21a7d7fc70ae56bf904fda80b429f48ebfd",
+   "sumber": {
+    "drive_id": "1Ldi7Nd2DPPdOCQCizd41PylpPy9krbww",
+    "nama": "IMG_20260510_082737_159.jpg",
+    "sha256_asli": "2fdf22beca3b23261fb96063c15680157214aa1ba251dd3c3ac7f845937864aa",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-05-10",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "bangun_rumah",
+   "material_utama": "plester",
+   "material": [
+    "plester"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Plester dinding luar rumah",
+   "ragu": null,
+   "sudah_tayang": [
+    "ready/2026-10-25-tiktok-acian-rumah.jpg"
+   ],
+   "mirip_konten_lama": [
+    "ready/2026-10-25-tiktok-acian-rumah.jpg"
+   ],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 960.5,
+    "kecerahan": 111.0,
+    "persen_gelap": 14.1,
+    "dhash": "071171d1d1d5eec5"
+   }
+  },
+  {
+   "id": "F018",
+   "path": "foto/asli/F018_20260612.jpg",
+   "sha256": "ffd52a5f3132db56e5caaa8dca6f8766cdb201053b2f6256c5894e92655141f1",
+   "sumber": {
+    "drive_id": "1M-yKjDWQQnifgppUMEUUQZZGSQsAZjMd",
+    "nama": "IMG_20260612_144417_937.jpg",
+    "sha256_asli": "0606934103c7483900708283533fcedadf0481cd19c010455fbbe32f54e1ea3b",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-12",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rangka_kayu",
+   "material": [
+    "rangka lantai kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Rangka lantai kayu dipasang tim",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 448.1,
+    "kecerahan": 102.8,
+    "persen_gelap": 6.5,
+    "dhash": "f1f961635b5ad291"
+   }
+  },
+  {
+   "id": "F019",
+   "path": "foto/asli/F019_20260403.jpg",
+   "sha256": "639703b185dec3f11d0941789acddf3588d36fce2576273713f05e95749f5d72",
+   "sumber": {
+    "drive_id": "1M74euEFV4PhRWUPHovekiGjbvJ0cTN9O",
+    "nama": "IMG_20260403_140111_441.jpg",
+    "sha256_asli": "149321381ae0bf28caa8b43df681c843c24e76984d5dabf086c35f7ac730d025",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-04-03",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "renovasi_rumah",
+   "material_utama": "bongkar",
+   "material": [],
+   "tahap": "sebelum",
+   "deskripsi": "Pembongkaran lantai dan dinding rumah lama",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 932.2,
+    "kecerahan": 82.4,
+    "persen_gelap": 21.4,
+    "dhash": "03c3c1c00460e084"
+   }
+  },
+  {
+   "id": "F020",
+   "path": "foto/asli/F020_20260711.jpg",
+   "sha256": "a1e5c03c1188451ddc4538e95430f58f7219ff43bceb76a62c26643bfad220d3",
+   "sumber": {
+    "drive_id": "1MsHZl1DqXBKc3jQTKnLz1A3WCV_UVCUd",
+    "nama": "IMG_20260711_132227_240.jpg",
+    "sha256_asli": "d0239aeb159da48e7e51c339f41fb0353266954613c3dff1d2ee9bb008efac5d",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-07-11",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "gypsum_soundshield",
+   "material": [
+    "gypsum soundshield",
+    "rockwool"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Plafon rockwool dan dinding Soundshield, perancah terpasang",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 384.6,
+    "kecerahan": 109.0,
+    "persen_gelap": 5.3,
+    "dhash": "fffef033a7271f98"
+   }
+  },
+  {
+   "id": "F021",
+   "path": "foto/asli/F021_20260403.jpg",
+   "sha256": "562141acb1fb4f17b41ba36e591239fceb51ee42b7a0a0a8f652681651eb71e8",
+   "sumber": {
+    "drive_id": "1OoF5YAUMxG8gkb8-DdBNq9WDvNawu9eV",
+    "nama": "IMG_20260403_140103_435.jpg",
+    "sha256_asli": "aa8c7049bf5dc372720926454269fe11a0800aeb14b60577567d2e1ee4d2436c",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-04-03",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "renovasi_rumah",
+   "material_utama": "bongkar",
+   "material": [],
+   "tahap": "sebelum",
+   "deskripsi": "Bongkar dinding dan atap rumah lama",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 246.1,
+    "kecerahan": 98.0,
+    "persen_gelap": 22.7,
+    "dhash": "13701f26f2d2e6a8"
+   }
+  },
+  {
+   "id": "F022",
+   "path": "foto/asli/F022_20260611.jpg",
+   "sha256": "ab9993557fcd0009b949905ad662c08c6595905ca9c3ad151ea4e64a48ca8b3c",
+   "sumber": {
+    "drive_id": "1Pv7gYruBSV_okrFhPtFK5J3yJjxuyBxm",
+    "nama": "IMG_20260611_152223_797.jpg",
+    "sha256_asli": "97f8819d695c344aa1be7e1da9530534e2e1ba4eb18bee2fe6a33c2afe7a20a4",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-11",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rangka_kayu",
+   "material": [
+    "rangka lantai kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Rangka lantai kayu di ruang panjang",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 615.0,
+    "kecerahan": 98.5,
+    "persen_gelap": 12.2,
+    "dhash": "d91a34bc88f8fce0"
+   }
+  },
+  {
+   "id": "F023",
+   "path": "foto/asli/F023_20260609.jpg",
+   "sha256": "9d7bbb164a59c49e79b18d71d2a43b426df8048ab581373ff6beb2a9b7a34095",
+   "sumber": {
+    "drive_id": "1S4ONOLTTExID9cpa-LhDxAXSEZIgccfY",
+    "nama": "IMG_20260609_144705_010.jpg",
+    "sha256_asli": "515ada5bf5807495070419bf11a7b531643b414c200875e1b6864b22319e313d",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-09",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "umum",
+   "material_utama": "pengiriman_material",
+   "material": [],
+   "tahap": "proses",
+   "deskripsi": "Tim mengangkut material berkemasan putih",
+   "ragu": "Isi kemasan tidak terlihat",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 397.6,
+    "kecerahan": 92.5,
+    "persen_gelap": 17.7,
+    "dhash": "8f8f79666f6e6bdb"
+   }
+  },
+  {
+   "id": "F024",
+   "path": "foto/asli/F024_20260608.jpg",
+   "sha256": "a43269bc2d420270770af3a3cfd32eccc6f00c7473b2213aa4ac83766876512b",
+   "sumber": {
+    "drive_id": "1T7an27NYx5pdGJ3gcJl2P45oggl0Z2g",
+    "nama": "_IMG_20260608_130911_741.jpg",
+    "sha256_asli": "d5a924b527f2e8fe3b63702ca7a634089673bcbe3c2969ea10bca2de970db62f",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-08",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "multipleks_lantai",
+   "material": [
+    "multipleks"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Lantai multipleks dengan panduan laser",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 351.2,
+    "kecerahan": 114.2,
+    "persen_gelap": 8.1,
+    "dhash": "2c97d6cd58f0fcfe"
+   }
+  },
+  {
+   "id": "F025",
+   "path": "foto/asli/F025_20260516.jpg",
+   "sha256": "4787f2b6e33201acb73524db7c6044f775964eafe65d5251b83422cbd2381fa3",
+   "sumber": {
+    "drive_id": "1VZtIG9ChBIU-7PmPbx9c9gg_WmbvX8It",
+    "nama": "IMG_20260516_151905_204.jpg",
+    "sha256_asli": "a00ce44d63c45323531532f3f324e3631233e073eff017ac764783fd07db7349",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-05-16",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "interior",
+   "material_utama": "ubin_dinding",
+   "material": [
+    "ubin motif marmer"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Pemasangan ubin dinding motif marmer",
+   "ragu": "Keramik atau granit belum pasti",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [
+    "konten/pbc/2026-10-30-keramik/a1.jpg"
+   ],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 287.9,
+    "kecerahan": 119.7,
+    "persen_gelap": 16.7,
+    "dhash": "3f3fbe7c3e3dbf9e"
+   }
+  },
+  {
+   "id": "F026",
+   "path": "foto/asli/F026_20260707.jpg",
+   "sha256": "7d793a9c6adbc838446d3c60d5dcf4254d59280baed533054cb460920fce1586",
+   "sumber": {
+    "drive_id": "1W6IYMZ7V_mOjOU3SGj83qdTorK4knvLZ",
+    "nama": "IMG-20260707-WA0046.jpg",
+    "sha256_asli": "deeb8ae631ce5ba319c900aab677f3306b16d400d183a143cd638b78de5d2901",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-07-07",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "interior",
+   "material_utama": "plafon",
+   "material": [],
+   "tahap": "proses",
+   "deskripsi": "Plafon dan dinding atas dalam pengerjaan",
+   "ragu": "Material plafon tidak jelas",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 2048,
+    "tinggi": 1161,
+    "skor_tajam": 118.3,
+    "kecerahan": 145.2,
+    "persen_gelap": 1.1,
+    "dhash": "e8e1e266f1f1daeb"
+   }
+  },
+  {
+   "id": "F027",
+   "path": "foto/asli/F027_20260619.jpg",
+   "sha256": "a58bc53de633ae7d2c512dc9f16a1f1b76fa5b20f805f6fae5ab9895dc4cea37",
+   "sumber": {
+    "drive_id": "1YdehznogiLNXZUYNr94DHfoIKFUKFzkW",
+    "nama": "IMG_20260619_162329_577.jpg",
+    "sha256_asli": "636b49ba0c27580081f195fd33fc8309a818f7f1b64dfe657532cf1b9024d717",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-19",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rockwool",
+   "material": [
+    "rockwool",
+    "rangka kayu",
+    "gypsum soundshield"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Ruang berangka kayu berisi rockwool, Soundshield ditumpuk",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 440.8,
+    "kecerahan": 93.7,
+    "persen_gelap": 17.9,
+    "dhash": "c171638383b3c1c0"
+   }
+  },
+  {
+   "id": "F028",
+   "path": "foto/asli/F028_20260906.jpg",
+   "sha256": "f94cb753ca8759c1798547c2f14393c08288ed4b4862d6eecec2c88d0995f004",
+   "sumber": {
+    "drive_id": "1a92iEANsbvVAdl60y0FU4dmmkDpv1Kp0",
+    "nama": "IMG-20260906-WA0029.jpg",
+    "sha256_asli": "a5bb0c890e122a81ab1eb3045174802978bf3c2b645e2dff24c233edba4ca506",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-09-06",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "cat_gelap",
+   "material": [
+    "cat gelap"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Pengecatan dinding warna gelap",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1161,
+    "tinggi": 2048,
+    "skor_tajam": 578.9,
+    "kecerahan": 115.3,
+    "persen_gelap": 12.9,
+    "dhash": "fefcf8f8f0f8b094"
+   }
+  },
+  {
+   "id": "F029",
+   "path": "foto/asli/F029_20260911.jpg",
+   "sha256": "a66587c5f634c49de004285ee354d164f86da3506854a3d9394820ab3a34c55e",
+   "sumber": {
+    "drive_id": "1anESL3Ktv9uLhbFu06T4tK3i1r1dZVZQ",
+    "nama": "IMG-20260911-WA0046.jpg",
+    "sha256_asli": "bf7e2d07da2d213da61d6f40f6c6f5624c55b711bd77f5383682048d530e4a58",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-09-11",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "panel_lengkung",
+   "material": [
+    "panel akustik",
+    "rockwool"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Pembuatan panel akustik lengkung di lantai kerja",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1161,
+    "tinggi": 2048,
+    "skor_tajam": 570.0,
+    "kecerahan": 138.8,
+    "persen_gelap": 2.4,
+    "dhash": "fc74ccdefbde9e9e"
+   }
+  },
+  {
+   "id": "F030",
+   "path": "foto/asli/F030_20260609.jpg",
+   "sha256": "013c2653f93254227582c9414f33c65a7bc5924bbf2fe4c5e61fa98052187290",
+   "sumber": {
+    "drive_id": "1bNR84YRX-JSx88ayHaUvmDq-juwci1WX",
+    "nama": "IMG_20260609_133440_764.jpg",
+    "sha256_asli": "691b967965f6e7b93a98ad2ae52fa43e2ca20a0bd5c76cf1167abf21d466bc47",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-09",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "multipleks_lantai",
+   "material": [
+    "multipleks",
+    "sealant"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Sealant pada sambungan lantai multipleks",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 129.0,
+    "kecerahan": 131.9,
+    "persen_gelap": 6.9,
+    "dhash": "f0e5c5d1e3e6e8f8"
+   }
+  },
+  {
+   "id": "F031",
+   "path": "foto/asli/F031_20260617.jpg",
+   "sha256": "18aa0c5884a23c6a3dd0377e107bf3e808d4aa3dd5a8a4ab3f80a465a1997ed8",
+   "sumber": {
+    "drive_id": "1cBDPO_SY7vHcYfn0NNxZoXIOFTVMDNrM",
+    "nama": "IMG_20260617_154156_091.jpg",
+    "sha256_asli": "f7f0ec3cdfaf57108715c515224eead768d02826198117c7c0ff5f316220f033",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-17",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rangka_kayu",
+   "material": [
+    "rangka kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Tim PBC memasang rangka kayu",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 306.4,
+    "kecerahan": 113.2,
+    "persen_gelap": 16.5,
+    "dhash": "d8f0636f0c8d8d8c"
+   }
+  },
+  {
+   "id": "F032",
+   "path": "foto/asli/F032_20260619.jpg",
+   "sha256": "b815e870bd313620c461e7dcb93aecf959acd1cceee79c9f6b4110a24a9cb0c6",
+   "sumber": {
+    "drive_id": "1cLssle-KC-idN5fOlGSloL9LML6PX4eI",
+    "nama": "IMG_20260619_154946_536.jpg",
+    "sha256_asli": "70e81b72a28350967cf46a6f4c874654dadd62b7b6f4816928cb60bf6b30a997",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-19",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rockwool",
+   "material": [
+    "rockwool",
+    "gypsum soundshield"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Dinding rockwool, tim PBC menyiapkan Soundshield",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 784.5,
+    "kecerahan": 102.0,
+    "persen_gelap": 14.7,
+    "dhash": "c06098c0e0c8f0d0"
+   }
+  },
+  {
+   "id": "F033",
+   "path": "foto/asli/F033_20260616.jpg",
+   "sha256": "dd282aaf1d972ef4b67de167dddf1addc022c940ec9faefccfc0c9fda4fbabe8",
+   "sumber": {
+    "drive_id": "1czz24z0STXf1ftFhBJW6SUPo_qTvGJWa",
+    "nama": "IMG_20260616_144436_118.jpg",
+    "sha256_asli": "28bf3c4c70bd60b8ce2d33b3f2b66fcc72fe22e1918b2c6544a09ad844418d1c",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-16",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rangka_kayu",
+   "material": [
+    "rangka kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Tim PBC memasang rangka dinding kayu",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 634.1,
+    "kecerahan": 85.8,
+    "persen_gelap": 13.6,
+    "dhash": "2f0b182d3891183b"
+   }
+  },
+  {
+   "id": "F034",
+   "path": "foto/asli/F034_20260610.jpg",
+   "sha256": "ce6b94dac9ab4ec50dc6aaaa74dc35af47a43c8cd87873ab1957db1e5c2d68b7",
+   "sumber": {
+    "drive_id": "1eVCuL6fT-qlNM2zYhGCGvs5fD8XuHWtg",
+    "nama": "IMG_20260610_150116_327.jpg",
+    "sha256_asli": "57355da4bda42561ad99a4cf98144c3f4859cb7a2a0353221789838cfdffff6e",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-10",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "peredam",
+   "material_utama": "papan",
+   "material": [],
+   "tahap": "proses",
+   "deskripsi": "Tim memotong papan di area kafe",
+   "ragu": "OSB atau rockwool belum pasti",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 423.1,
+    "kecerahan": 118.2,
+    "persen_gelap": 12.3,
+    "dhash": "585929c9e3f3e370"
+   }
+  },
+  {
+   "id": "F035",
+   "path": "foto/asli/F035_20260604.jpg",
+   "sha256": "31aa958bef6b050d170dd8f99e388ed5464b82084e2ec61c13dbdcd673a55915",
+   "sumber": {
+    "drive_id": "1edeY2kI1h9t7rHg40Wryc81pNPjY3PGU",
+    "nama": "IMG_20260604_153233_783.jpg",
+    "sha256_asli": "3db5a222e47fcb5bb629d80aeb01d4ce95a6353a860c2b70590f67ef07f1b2bb",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-04",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "peredam",
+   "material_utama": "panel_akustik",
+   "material": [
+    "panel akustik"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Panel gelap dibawa melalui tangga kafe",
+   "ragu": "Jenis panel belum pasti",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 653.3,
+    "kecerahan": 141.0,
+    "persen_gelap": 3.3,
+    "dhash": "87b31af3670c138f"
+   }
+  },
+  {
+   "id": "F036",
+   "path": "foto/asli/F036_20260620.jpg",
+   "sha256": "3f72840c35dae62580349676d65880c2103d9c1c5b846cac375b55c85895d5f2",
+   "sumber": {
+    "drive_id": "1gOp97H3G2Be73fQZFJry62JfDulhoN9l",
+    "nama": "IMG_20260620_150419_052.jpg",
+    "sha256_asli": "131f46ee749e6e6139f3c697649c0d6534134d42ec5efe408c1d9c9dc90ee119",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-20",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "gypsum_soundshield",
+   "material": [
+    "gypsum soundshield"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Dinding Soundshield didempul, tim bekerja",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 2048,
+    "tinggi": 1536,
+    "skor_tajam": 563.4,
+    "kecerahan": 117.4,
+    "persen_gelap": 5.8,
+    "dhash": "031f1cd2b6b7f4ee"
+   }
+  },
+  {
+   "id": "F037",
+   "path": "foto/asli/F037_20260608.jpg",
+   "sha256": "a018db14a5d899961440455ffac54b383189ee942082d8454a8c8dd17503821d",
+   "sumber": {
+    "drive_id": "1ggj5zJeyxx0XQ1S8RfWI4W0BTF3CzMJD",
+    "nama": "IMG_20260608_091142_710.jpg",
+    "sha256_asli": "4f44cbcc5ac1d2f7ab9b87df4111e0685cfefadb053d171abf55ad03da8deb13",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-08",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "multipleks_lantai",
+   "material": [
+    "multipleks",
+    "rubber mat"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Lantai multipleks dipasang di atas rubber mat",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 407.3,
+    "kecerahan": 109.3,
+    "persen_gelap": 9.2,
+    "dhash": "c9e7f3f29c78fffe"
+   }
+  },
+  {
+   "id": "F038",
+   "path": "foto/asli/F038_20260606.jpg",
+   "sha256": "73ee9b4cb26b4bfd9f3803df92acb07e5984174590d2f807185d779194c30125",
+   "sumber": {
+    "drive_id": "1hK_1rY9bHfw8eG535O6OBJfpvTcX1fGi",
+    "nama": "IMG_20260606_140809_772.jpg",
+    "sha256_asli": "96dd6805c0f2e73ddf1eb73f5bbd7081dd078d5c7e26b06378932b40cf72c3ee",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-06",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "kondisi_awal",
+   "material": [],
+   "tahap": "sebelum",
+   "deskripsi": "Ruang kosong berlantai beton sebelum pengerjaan",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 432.2,
+    "kecerahan": 107.0,
+    "persen_gelap": 6.1,
+    "dhash": "4c2f9ccc61e0e041"
+   }
+  },
+  {
+   "id": "F039",
+   "path": "foto/asli/F039_20260828.jpg",
+   "sha256": "17cba68f5e9f75a51f7e70d2f32e175529259ab59661255a6db6652a0a075e05",
+   "sumber": {
+    "drive_id": "1hUoS7OMZXxyyksCfVaJvbUqxNG8vvb2f",
+    "nama": "IMG-20260828-WA0006.jpg",
+    "sha256_asli": "54e1087a4cfa6642222f07fe1e363e769177d1f0a18b693e5e9da85680ec3774",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-08-28",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "lantai_akhir",
+   "material": [],
+   "tahap": "proses",
+   "deskripsi": "Pemasangan lantai papan di ruang berdinding Soundshield",
+   "ragu": "SPC atau vinyl belum pasti",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1161,
+    "tinggi": 2048,
+    "skor_tajam": 277.4,
+    "kecerahan": 132.3,
+    "persen_gelap": 3.6,
+    "dhash": "4f41614696f2e672"
+   }
+  },
+  {
+   "id": "F040",
+   "path": "foto/asli/F040_20260607.jpg",
+   "sha256": "f071ac562574ab4d5e5b79be085d6d1d56c31ab6923744e749f26f7f2e113267",
+   "sumber": {
+    "drive_id": "1hfK4k2kIb6_3sJX2bCeFMCX6jJVPiJIg",
+    "nama": "IMG_20260607_112921_354.jpg",
+    "sha256_asli": "4cc1793c7cb9aab51be41ab81ff88de630c02fe42887552e7cfbda169be5ca94",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-07",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "multipleks_lantai",
+   "material": [
+    "multipleks",
+    "rubber mat"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Multipleks di atas rubber mat hitam",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 208.9,
+    "kecerahan": 98.3,
+    "persen_gelap": 22.6,
+    "dhash": "353c9c9488f0f6f2"
+   }
+  },
+  {
+   "id": "F041",
+   "path": "foto/asli/F041_20260611.jpg",
+   "sha256": "50a42765292baabce368949eed79ed391cbe5ecc7c2f2225c5a842a1fe8282b2",
+   "sumber": {
+    "drive_id": "1l1ZvRJeGFf3KZ0wnKayKtFLEMsMWlzn7",
+    "nama": "IMG_20260611_143413_652.jpg",
+    "sha256_asli": "2a571e9024033047baf826e0f1d6c02929877a299cb5811d19554ab9b354718a",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-11",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rangka_kayu",
+   "material": [
+    "rangka kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Pemasangan rangka kayu dinding, lantai multipleks",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 469.5,
+    "kecerahan": 113.6,
+    "persen_gelap": 10.4,
+    "dhash": "cae3e3e3c35b7bfd"
+   }
+  },
+  {
+   "id": "F042",
+   "path": "foto/asli/F042_20260626.jpg",
+   "sha256": "9c0542ebac9a5bc9b8163d7c9c909a8eb4068bc38f56ec5128a59062141eeb34",
+   "sumber": {
+    "drive_id": "1nx-zghtJRHibtz5riakvZsxg5yjMJm0g",
+    "nama": "IMG_20260626_085854_747.jpg",
+    "sha256_asli": "1684c8f5c5b04ea461d9d86b1ab7ce29a1e1d5d8d5afb1967ad8c326b9b54fee",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-26",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "gypsum_soundshield",
+   "material": [
+    "gypsum soundshield"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Lorong berdinding Soundshield didempul",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 1224.5,
+    "kecerahan": 95.9,
+    "persen_gelap": 18.3,
+    "dhash": "b8d95939919c2474"
+   }
+  },
+  {
+   "id": "F043",
+   "path": "foto/asli/F043_20260612.jpg",
+   "sha256": "eef844bf170066e720b0629f3ce87357f5edbfcf56046a02518cba5d0dbcb923",
+   "sumber": {
+    "drive_id": "1nxWo1cqVX65-NEy9vofB_pDXeLtq8-eM",
+    "nama": "IMG_20260612_104530_171.jpg",
+    "sha256_asli": "d6daad8e14fcf1fa8cfb8dd7310e961db9ba691c792511c33d5d464e9b728c29",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-12",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "studio_musik",
+   "material_utama": "rangka_kayu",
+   "material": [
+    "rangka lantai kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Tim memasang rangka lantai kayu",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 360.8,
+    "kecerahan": 125.1,
+    "persen_gelap": 3.7,
+    "dhash": "bf3fb99c0c4829ec"
+   }
+  },
+  {
+   "id": "F044",
+   "path": "foto/asli/F044_20260419.jpg",
+   "sha256": "187ce773feabf574f2b7475f0e5ee2ec44b68c878886cf6cc5a30176eaea922e",
+   "sumber": {
+    "drive_id": "1p6PWocR7e6se4bevCcf33FSGYNwJSIli",
+    "nama": "IMG_20260419_082821_691.jpg",
+    "sha256_asli": "2ec0fba3c2b9f72644cf2c9abb10ca256ca7d4237d96d039e1fcb4b161fdffa7",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-04-19",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "renovasi_rumah",
+   "material_utama": "plester",
+   "material": [
+    "plester"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Plester dinding sekitar jendela rumah lama",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 743.2,
+    "kecerahan": 123.3,
+    "persen_gelap": 12.8,
+    "dhash": "4a3f0e9696333b6d"
+   }
+  },
+  {
+   "id": "F045",
+   "path": "foto/asli/F045_20260611.jpg",
+   "sha256": "8f43de103f6021e4330c0e903e9a14578b6c77bea7afa4e981f8253221fc4ca8",
+   "sumber": {
+    "drive_id": "1rLT7UyaIHg3k87YxpntFXvqZWxEIO2nA",
+    "nama": "IMG_20260611_140837_745.jpg",
+    "sha256_asli": "cdd4698d2564bc95587f8d41b6f799c3deb6383fefa36d7fe1f0c36810cb7389",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-11",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "umum",
+   "material_utama": "pengiriman_material",
+   "material": [
+    "kayu"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Balok kayu diturunkan di lokasi",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 1132.4,
+    "kecerahan": 107.4,
+    "persen_gelap": 24.9,
+    "dhash": "e1b1f0b2796c6631"
+   }
+  },
+  {
+   "id": "F046",
+   "path": "foto/asli/F046_20260426.jpg",
+   "sha256": "9758ad7aad1308f067393806d94e25141e85759b7bd867cb957f6c048cc5f6d1",
+   "sumber": {
+    "drive_id": "1rc6GA-RraDRSYB9ZMSypl3IX_C8PzkTq",
+    "nama": "IMG_20260426_200857_135.jpg",
+    "sha256_asli": "c4e95d9086d4070eebf1d5dba1cbbec27e6d765d709bc074197403327e5dedd2",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-04-26",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "bangun_rumah",
+   "material_utama": "eksterior",
+   "material": [
+    "batu alam"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Eksterior rumah berdinding batu alam, malam hari",
+   "ragu": "Tahap selesai atau proses belum pasti",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 2048,
+    "tinggi": 1536,
+    "skor_tajam": 532.8,
+    "kecerahan": 72.7,
+    "persen_gelap": 37.9,
+    "dhash": "f898d9d9f5e7c3c9"
+   }
+  },
+  {
+   "id": "F047",
+   "path": "foto/asli/F047_20260609.jpg",
+   "sha256": "c6705853d268c6b25ed29b3cfecac4b18178cabacff29ac23f8bd1c843cc6412",
+   "sumber": {
+    "drive_id": "1sNXOdMLBt_tb0dpkuMUVQHGWt1hglR19",
+    "nama": "IMG_20260609_144838_854.jpg",
+    "sha256_asli": "f8b021f7a45c07f8c204adff9a65f3cb035bd6153ee20815a07ad5d83925ab1c",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-06-09",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "umum",
+   "material_utama": "pengiriman_material",
+   "material": [],
+   "tahap": "proses",
+   "deskripsi": "Material berkemasan putih dibawa lewat tangga",
+   "ragu": "Isi kemasan tidak terlihat",
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 186.9,
+    "kecerahan": 96.3,
+    "persen_gelap": 23.6,
+    "dhash": "b00c843310d21981"
+   }
+  },
+  {
+   "id": "F048",
+   "path": "foto/asli/F048_20260915.jpg",
+   "sha256": "04eeb272422c9582a789d3f450b354c53da81172561ddca0922b03c6289efc12",
+   "sumber": {
+    "drive_id": "1x9YqusPBnSJuR1R6PJ0ijOFq-B_FEm0O",
+    "nama": "IMG_20260915_163933_383.jpg",
+    "sha256_asli": "f3c890b71b5dfa5df0b7d6157374dd861f78061b850449d3553da9dbc7476dc7",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-09-15",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "peredam",
+   "material_utama": "panel_lengkung",
+   "material": [
+    "panel akustik"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Panel akustik lengkung jadi, menunggu dipasang",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 173.5,
+    "kecerahan": 119.5,
+    "persen_gelap": 12.5,
+    "dhash": "1c6b03736b19c561"
+   }
+  },
+  {
+   "id": "F049",
+   "path": "foto/asli/F049_20260401.jpg",
+   "sha256": "bb32cc70eb50ae0102e0e30ef33ea244362dae8a4cb613fc348ba20902bcfc12",
+   "sumber": {
+    "drive_id": "1xuwkkPGoQHJxdI-oCytyIADBNwd1Jo34",
+    "nama": "IMG_20260401_152853_641.jpg",
+    "sha256_asli": "f27a773d73063b76d6fb6b966b8b62e0d150b9e1ff99730b6d2a860f11fad10e",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-04-01",
+   "proyek": null,
+   "lokasi": null,
+   "layanan": "renovasi_rumah",
+   "material_utama": "bongkar",
+   "material": [],
+   "tahap": "sebelum",
+   "deskripsi": "Bongkar lantai teras rumah lama",
+   "ragu": null,
+   "sudah_tayang": [],
+   "mirip_konten_lama": [],
+   "terverifikasi": false,
+   "diverifikasi_oleh": null,
+   "diverifikasi_pada": null,
+   "metrik": {
+    "lebar": 1536,
+    "tinggi": 2048,
+    "skor_tajam": 656.1,
+    "kecerahan": 118.4,
+    "persen_gelap": 14.4,
+    "dhash": "4f6be7874fef8f9c"
+   }
+  }
+ ]
+}
