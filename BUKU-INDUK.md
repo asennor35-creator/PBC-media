@@ -156,3 +156,9 @@ Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak
 - Belum: kirim sitemap_index.xml di Search Console (Bapak), halaman bangun rumah/villa EN+ID (butuh foto proyek asli), ulasan Google klien, artikel kata kunci.
 - Search Console (screenshot 5 Nov, data 23 Okt): 7 terindeks, 19 tidak; 3 bulan 91 klik, 533 tayang, posisi 8,6. Kueri luar: "bali construction contractor" 24, "general contractor bali" 6 → judul beranda EN diganti "Bali Construction Contractor & Builder…". Belum terindeks: studio-musik-bali, home-renovation-bali, cafe-renovation-bali, about, renovasi-kafe-bali → Bapak diminta "Minta pengindeksan". /hello-world/* dialihkan ke beranda, skrip emoji dimatikan (snippet 6).
 - Profil Google PBC asli: "PBC – Pratama Build & Construction", link https://maps.app.goo.gl/FWYRNtuxHWaEf6fs6 (CID 0x3167809f5a69400a). "PT. PRATAMA BUILDING CONTRAKTOR" BUKAN milik PBC. Teks WA minta ulasan sudah dibuat (5 Nov).
+
+## Metricool kuota habis (10 Nov)
+- Paket gratis Metricool = 20 posting terjadwal/bulan; habis 5 Nov → semua posting 5–10 Nov ERROR "account limit". Penyebab: 1 konten dipecah 2–3 posting (IG, FB+TikTok, GMB).
+- Disetujui Bapak: penjadwal Metricool (trig_01LoASUmSgwQuG7jx5fR873k) DIMATIKAN s.d. 1 Des; Bapak posting manual.
+- Paket harian dikirim ke Telegram Bapak 09.15 WITA oleh workflow pbc-os `kirim-paket-tg.yml` dari `data/antrean_tg.json` (10–16 Nov terisi; 10 Nov sudah terkirim). Tambah paket = tambah entri antrean.
+- 1 Des: pengingat terjadwal untuk ubah PENJADWAL jadi 1 paket = 1 posting semua kanal, lalu aktifkan lagi.
