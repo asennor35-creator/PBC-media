@@ -169,3 +169,4 @@ Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak
 - Gambar: render katalog Bapak (PBC-Katalog-Akustik-Ruangan v4.4; hal 06 podcast & 20 kafe render baru), media 785–799.
 - Kafe dihitung ulang di aplikasi: 8×10×3,5 m, lantai beton, 25 baffle + 6 batu organik → 1,86 → 0,66 dtk (10/10 lulus).
 - Berikutnya: render villa (prompt sudah diberikan), halaman podcast (render baru ada, LED merah opsional diganti), ruangan lain, halaman Model & Warna. Kotak ruangan tanpa halaman → WhatsApp sementara.
+- 15 Nov malam: halaman villa tayang /villa-acoustic-panels-bali/ (815) ↔ /panel-akustik-villa-bali/ (814); kartu Villa ditambah di halaman induk. Model 3D villa dari aplikasi (theater, 6×7×4 m, beton, kaca kiri, ribbed+curve+cloud, paket Standar): 3,04 → 0,44 dtk, 12/14 lulus (saran tirai). Render Bapak: media 811–813. Purge flag snippet 8 = '76'.
