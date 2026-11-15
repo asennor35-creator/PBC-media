@@ -162,3 +162,10 @@ Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak
 - Disetujui Bapak: penjadwal Metricool (trig_01LoASUmSgwQuG7jx5fR873k) DIMATIKAN s.d. 1 Des; Bapak posting manual.
 - Paket harian dikirim ke Telegram Bapak 09.15 WITA oleh workflow pbc-os `kirim-paket-tg.yml` dari `data/antrean_tg.json` (10–16 Nov terisi; 10 Nov sudah terkirim). Tambah paket = tambah entri antrean.
 - 1 Des: pengingat terjadwal untuk ubah PENJADWAL jadi 1 paket = 1 posting semua kanal, lalu aktifkan lagi.
+
+## Panel Akustik di website (15 Nov, disetujui Bapak)
+- Konsep B: website = etalase (contoh ruangan + "model bisa diganti" + WhatsApp); ganti model & hitung ulang gema dikerjakan Bapak lewat aplikasi akustik saat chat/survei.
+- Halaman tayang: induk /acoustic-panels-bali/ (801) ↔ /panel-akustik-bali/ (800); kafe /cafe-acoustic-panels-bali/ (803) ↔ /peredam-suara-kafe-bali/ (802). Pasangan bahasa + skema di snippet 6; menu HP snippet 9 + menu desktop navigation 34; tautan dari beranda (415/344), studio (439/438), renovasi kafe (474/473). Purge flag snippet 8 = '75'. Backup: backup/2026-11-15/.
+- Gambar: render katalog Bapak (PBC-Katalog-Akustik-Ruangan v4.4; hal 06 podcast & 20 kafe render baru), media 785–799.
+- Kafe dihitung ulang di aplikasi: 8×10×3,5 m, lantai beton, 25 baffle + 6 batu organik → 1,86 → 0,66 dtk (10/10 lulus).
+- Berikutnya: render villa (prompt sudah diberikan), halaman podcast (render baru ada, LED merah opsional diganti), ruangan lain, halaman Model & Warna. Kotak ruangan tanpa halaman → WhatsApp sementara.
