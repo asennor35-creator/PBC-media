@@ -181,3 +181,5 @@ Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak
 - Media 827–845 (19 WebP ilustrasi pbc-flooring-*, alt dari HTML). Rank Math judul/deskripsi diisi; IndexNow terkirim 2 URL.
 - Snippet 6: pasangan 847=>846 + skema Service; snippet 9 (menu HP): kotak "Rubber Flooring"/"Lantai Rubber" sesudah Lantai (foto pbc-studi-kasus-studio-05.jpg); navigation 34: "Rubber Flooring" sesudah Acoustic Panels; tautan di kartu "Rubber mats" halaman 652/651. Purge flag snippet 8 = '79'.
 - Backup sebelum ubah: backup/2026-11-20/ (snippet 6/8/9, nav34, page651/652).
+- 20 Nov sore (disetujui): menu "Products/Produk" — desktop nav34 jadi submenu Products (Acoustic Panels, Rubber Flooring) + snippet 14 (gaya dropdown: gambar produk m-hex & flooring-speck, keterangan; + terjemah menu desktop di semua halaman ID dari pbc_lang_pairs, termasuk 800/802/814/823/847 yang dulu masih Inggris). Menu HP snippet 9: Layanan 5 kotak (Panel Akustik & Rubber dipindah), bagian baru Produk 2 kotak gambar produk. Purge flag '83'.
+- 20 Nov: angka proyek selesai beranda 5 → 6 (415 & 344). Catatan: label ID masih "Proyek delivered" (belum diubah, menunggu Bapak).
