@@ -1,7 +1,18 @@
 # Buku Induk PBC (baca ini dulu di setiap obrolan baru)
 
-Diperbarui: 31 Okt 2026. Pemilik: Abraham Norasen (hanya pakai HP Android, pesan suara Bahasa Indonesia).
+Diperbarui: 22 Nov 2026. Pemilik: Abraham Norasen (hanya pakai HP Android, pesan suara Bahasa Indonesia).
 Aturan hemat (WAJIB): baca file ini saja, jangan membaca ulang semua file/riwayat. Jangan banyak bertanya; ambil keputusan wajar lalu kerjakan. Balasan ke Bapak maksimal 3–5 baris, langsung hasil. Kerja tetap lengkap dan dicek. Satu obrolan = satu urusan.
+
+## PETA SISTEM — cara mulai setiap obrolan (22 Nov 2026)
+Jangan minta Bapak mengulang konteks, unggah ulang, atau memberi sandi lagi. Urutan:
+1. Memori Claude (otomatis termuat) + file ini. Detail per urusan ada di memori /areas/*.
+2. Repo: tambahkan sendiri (add_repo) PBC-media (publik: media, aplikasi HP, buku ini), pbc-os (privat: Marketing OS, register klien `docs/KLIEN.md`, brankas akses), pbc-sistem (ERP publik), pbc-sistem-ops (privat). JANGAN taruh data klien/angka/rekening di repo publik.
+3. Riwayat chat lama: cari sendiri (conversation_search) bila data belum tercatat; lalu catat.
+4. Dokumen klien: Drive "PBC Dokumen Klien" (id 1NP4gdIfj_WAhxJ4RZ5GMCWrD3wSYoueE), subfolder per klien. Semua PDF + sumber wajib disimpan di sini dan dicatat di pbc-os docs/KLIEN.md.
+5. Sambungan permanen (tidak perlu login ulang): Google Drive, Metricool, Adobe, SketchUp, WordPress.com (akun asennor35 — situs pratamabuild.id BELUM tersambung via Jetpack, jadi tidak muncul). Cek dengan ListConnectors; bila kedaluwarsa, sebut nama sambungannya saja.
+6. Website pratamabuild.id: jalankan `python3 scripts/akses/ambil.py wp` dari klon pbc-os → membuat ~/wp.sh + ~/.wpk (izin 600) tanpa sandi muncul di chat. Sumbernya GitHub Secret pbc-os `WP_APP_PASSWORD` (+ opsional `WP_LOGIN`, default assenor35@gmail.com) lewat workflow akses-sesi.yml (dienkripsi ke kunci sementara sesi). Bila hasil BELUM_DIISI: minta Bapak isi secret itu sekali (jangan minta sandi lewat chat).
+7. Kalau permintaan Bapak bisa berarti beberapa dokumen/proyek: tawarkan pilihan singkat ("maksudnya PBC/QTN/1126/001, Pak?"), jangan suruh menjelaskan ulang.
+8. Batas platform: chat lama tidak bisa digabung jadi satu; file di sesi lama hilang (karena itu wajib simpan ke Drive); sandi tidak boleh di memori/chat/repo polos.
 
 ## Akses dan alat
 - Metricool brand 7567559, zona Asia/Jakarta. Kanal: IG, FB, TikTok, YouTube, Google Business (gmb).
@@ -9,7 +20,7 @@ Aturan hemat (WAJIB): baca file ini saja, jangan membaca ulang semua file/riwaya
   - Musik IG Reel lewat audioConfiguration; TikTok foto `autoAddMusic`.
   - IG Collab: `instagramData.collaborators`.
 - Media: repo GitHub asennor35-creator/PBC-media (raw URL). Pakai nama file baru tiap revisi (cache).
-- Website pratamabuild.id (WordPress), REST lewat wp.sh + kredensial .wpk (kunci baru dibuat Bapak 22 Nov, nama 'Claude'; minta ulang bila hilang).
+- Website pratamabuild.id (WordPress), REST lewat ~/wp.sh + ~/.wpk — ambil lewat pbc-os scripts/akses/ambil.py (lihat PETA SISTEM no. 6), JANGAN minta sandi lewat chat.
   - Halaman depan: ID 344 / EN 415.
   - Snippet 8 = flag purge (naikkan tiap publish, terakhir '70'). Snippet 11 = tampilan desktop + notranslate.
   - Klik tombol: /wp-json/pbc/v1/wa-stats
