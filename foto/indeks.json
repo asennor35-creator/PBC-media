@@ -1733,6 +1733,190 @@
     "persen_gelap": 14.4,
     "dhash": "4f6be7874fef8f9c"
    }
+  },
+  {
+   "id": "F050",
+   "path": "foto/asli/F050_20261119.jpg",
+   "sha256": "23fc95741f616af4bc6231b1a165211b8b03ac9f2bdb37fc9f9b5d27aed2f47f",
+   "sumber": {
+    "drive_id": "1-y3ajbscv9rva_euFzIOX3xB0VHz94nk",
+    "nama": "IMG_20261119_094605_071.jpg",
+    "sha256_asli": "459d1054c136c771b1549d298c63f6524fc34efcd4c58424112efc291ed554be",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-11-19",
+   "proyek": "renovasi rumah Nov 2026",
+   "lokasi": null,
+   "layanan": "renovasi rumah",
+   "material_utama": "kusen pintu",
+   "material": [
+    "kusen pintu",
+    "engsel",
+    "laser level"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Tukang memasang engsel pada kusen pintu baru, kelurusan dicek dengan laser level hijau",
+   "terverifikasi": false,
+   "dipakai": [
+    "telegram 2026-11-22"
+   ]
+  },
+  {
+   "id": "F051",
+   "path": "foto/asli/F051_20261108.jpg",
+   "sha256": "89c31c2e0e2fbf91851bff76f946791994b52249cdcfc35e2370e2e71fa0ef3d",
+   "sumber": {
+    "drive_id": "1FQJvvmY74hERLHa3JHExs1x19nZpa_WO",
+    "nama": "IMG_20261108_133652_441.jpg",
+    "sha256_asli": "4dc2356ea2fe14d1b30bd4b14c85de4e9d3f0a6b823dea7987e713435e1fcd3f",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-11-08",
+   "proyek": "renovasi rumah Nov 2026",
+   "lokasi": null,
+   "layanan": "renovasi rumah",
+   "material_utama": "kusen pintu",
+   "material": [
+    "bata",
+    "plester"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Bukaan pintu dilebarkan: kusen lama dibongkar dan dinding di atasnya dibobok dengan bor bobok",
+   "terverifikasi": false,
+   "dipakai": [
+    "telegram 2026-11-22"
+   ]
+  },
+  {
+   "id": "F052",
+   "path": "foto/asli/F052_20261108.jpg",
+   "sha256": "1f202063eb756d4e2feccb99281a090af8e77c1a9f1fdc32580a353b981e0761",
+   "sumber": {
+    "drive_id": "1UbazATebDhMx8Sd4GsrLat4zL92JL3gW",
+    "nama": "IMG_20261108_112457_408.jpg",
+    "sha256_asli": "afc6c8c98e059970f63e81061d203dda90990a028fffd4f06ddc0589eb5fbbe2",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-11-08",
+   "proyek": "renovasi rumah Nov 2026",
+   "lokasi": null,
+   "layanan": "renovasi rumah",
+   "material_utama": "kusen jendela",
+   "material": [
+    "bata",
+    "plester"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Dua bukaan jendela dilebarkan, sisi dinding dibobok untuk kusen baru",
+   "terverifikasi": false,
+   "dipakai": [
+    "telegram 2026-11-22"
+   ]
+  },
+  {
+   "id": "F053",
+   "path": "foto/asli/F053_20261119.jpg",
+   "sha256": "9a08daad59e0f24a7acd21df2a21d1f4c325f1e76b8cd1527cb877cd18dee636",
+   "sumber": {
+    "drive_id": "1K_dtCcCpvzYnRphIzhe-ajNIXI5_IR3m",
+    "nama": "IMG_20261119_163114_606.jpg",
+    "sha256_asli": "06884c72df1f13186505d44ebc2bc518ba4f9dc92dbbc25442839582a4a2eaf8",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-11-19",
+   "proyek": "renovasi rumah Nov 2026",
+   "lokasi": null,
+   "layanan": "renovasi rumah",
+   "material_utama": "kusen uPVC",
+   "material": [
+    "uPVC",
+    "kaca"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Dua jendela uPVC baru terpasang di bukaan yang dilebarkan, plastik pelindung belum dilepas",
+   "terverifikasi": false,
+   "dipakai": [
+    "telegram 2026-11-22"
+   ]
+  },
+  {
+   "id": "F054",
+   "path": "foto/asli/F054_20261110.jpg",
+   "sha256": "8364d278d978742798d00c8f73f8cc7b2c31a53440e847eeb6237ff0e4e631ff",
+   "sumber": {
+    "drive_id": "1Ckaf43KmBF3eyKVPeQhazBN6U1gUUtmb",
+    "nama": "IMG_20261110_095525_918.jpg",
+    "sha256_asli": "d70402baed0447673d9360f92028d185b4e4f4f331484de264aa7a2615667295",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-11-10",
+   "proyek": "renovasi rumah Nov 2026",
+   "lokasi": null,
+   "layanan": "renovasi rumah",
+   "material_utama": "atap transparan",
+   "material": [
+    "atap transparan",
+    "genteng"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Pemasangan atap transparan di antara genteng tanah liat untuk menambah cahaya alami ke dalam rumah",
+   "terverifikasi": false,
+   "dipakai": [
+    "telegram 2026-11-22"
+   ]
+  },
+  {
+   "id": "F055",
+   "path": "foto/asli/F055_20261110.jpg",
+   "sha256": "c9f0ade2aa45f4eac81030c38cd946ed8940671fa7a06626aa5c26341f3798c4",
+   "sumber": {
+    "drive_id": "1Esh218pHri27-c2W2px9RJ7SZK_o-ShI",
+    "nama": "IMG_20261110_164351_240.jpg",
+    "sha256_asli": "8099d8eb63d75f07fdbbae838032b4f30645c5a4db14a4d508c77f208e873409",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-11-10",
+   "proyek": "renovasi rumah Nov 2026",
+   "lokasi": null,
+   "layanan": "renovasi rumah",
+   "material_utama": "rangka hollow",
+   "material": [
+    "rangka hollow",
+    "gypsum"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Rangka hollow galvalum dipasang di atas lemari untuk partisi gypsum, tim berkaos PBC",
+   "terverifikasi": false,
+   "dipakai": [
+    "telegram 2026-11-22"
+   ]
+  },
+  {
+   "id": "F056",
+   "path": "foto/asli/F056_20261114.jpg",
+   "sha256": "3d9d710f35fcaa66f384b513a95a6630f2429fa3b443cc9c694179c4d4bb5e65",
+   "sumber": {
+    "drive_id": "1bzmY0PI8AB_PdhInzTGhnpJqvXPlH-2O",
+    "nama": "IMG_20261114_161937_243.jpg",
+    "sha256_asli": "611cc6d38844fa23f71954b1956498d303df0ac953afdeea66fb80015a9724c3",
+    "diubah": "diperkecil ke sisi panjang 2048 px, tanpa edit isi"
+   },
+   "tanggal_foto": "2026-11-14",
+   "proyek": "renovasi rumah Nov 2026",
+   "lokasi": null,
+   "layanan": "renovasi rumah",
+   "material_utama": "gypsum",
+   "material": [
+    "gypsum",
+    "plamir",
+    "pintu lipat PVC"
+   ],
+   "tahap": "proses",
+   "deskripsi": "Dinding gypsum baru sudah diplamir sambungannya, pintu lipat PVC terpasang di sebelahnya",
+   "terverifikasi": false,
+   "dipakai": [
+    "telegram 2026-11-22"
+   ]
   }
  ]
 }
