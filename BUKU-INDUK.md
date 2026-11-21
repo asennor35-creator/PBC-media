@@ -9,7 +9,7 @@ Aturan hemat (WAJIB): baca file ini saja, jangan membaca ulang semua file/riwaya
   - Musik IG Reel lewat audioConfiguration; TikTok foto `autoAddMusic`.
   - IG Collab: `instagramData.collaborators`.
 - Media: repo GitHub asennor35-creator/PBC-media (raw URL). Pakai nama file baru tiap revisi (cache).
-- Website pratamabuild.id (WordPress), REST lewat wp.sh + kredensial .wpk (ada di sesi lama, minta ulang bila hilang).
+- Website pratamabuild.id (WordPress), REST lewat wp.sh + kredensial .wpk (kunci baru dibuat Bapak 22 Nov, nama 'Claude'; minta ulang bila hilang).
   - Halaman depan: ID 344 / EN 415.
   - Snippet 8 = flag purge (naikkan tiap publish, terakhir '70'). Snippet 11 = tampilan desktop + notranslate.
   - Klik tombol: /wp-json/pbc/v1/wa-stats
@@ -184,3 +184,7 @@ Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak
 - 20 Nov sore (disetujui): menu "Products/Produk" — desktop nav34 jadi submenu Products (Acoustic Panels, Rubber Flooring) + snippet 14 (gaya dropdown: gambar produk m-hex & flooring-speck, keterangan; + terjemah menu desktop di semua halaman ID dari pbc_lang_pairs, termasuk 800/802/814/823/847 yang dulu masih Inggris). Menu HP snippet 9: Layanan 5 kotak (Panel Akustik & Rubber dipindah), bagian baru Produk 2 kotak gambar produk. Purge flag '83'.
 - 20 Nov: angka proyek selesai beranda 5 → 6 (415 & 344). Catatan: label ID masih "Proyek delivered" (belum diubah, menunggu Bapak).
 - 20 Nov malam: halaman Wall Panel tayang — /acoustic-wall-panels-bali/ (857) ↔ /wall-panel-akustik-bali/ (858). 6 model mudah diproduksi dari katalog v4.4 (kain kotak, kain lebar, heksagon, bulat, kisi kayu, bergambar); model rumit (wave, arch, fluted, kayu berlubang, tufted, strip miring, piramida) sengaja tidak ditampilkan → "minta katalog lengkap via WA". Tanpa harga. Media baru 854–856 (m-wide/round/printed); kain/hex/slat pakai media lama 788–790. Rank Math + IndexNow + snippet 6 (pasangan & skema). Menu: Products → Acoustic Panels / Wall Panels / Rubber Flooring (nav34, snippet 14, snippet 9 Produk 3 kolom). Hub 800/801 diberi tautan ke halaman ini. Purge '85'. Backup: backup/2026-11-20/wallpanel/ (+ generator gen-wallpanel.py).
+
+## 22 Nov
+- Foto Drive 20 Nov (renovasi rumah, 8–19 Nov, semua tahap proses) → F050–F056 di foto/indeks.json; carousel ready/R-20261122-renov masuk antrean Telegram 22 Nov 12.00; website: media 862–868 ditambahkan ke galeri .sgrid halaman 470 (EN) & 469 (ID), kini 20 foto. Video VID_20261114 (62 MB, mentah) belum diproses. Purge '86'. Backup backup/2026-11-22/.
+- Usulan Nusa Penida (render & gambar kerja kafe Dionne) untuk website: tunggu izin klien + file dari Bapak.
