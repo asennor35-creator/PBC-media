@@ -201,3 +201,10 @@ Langkah berikutnya: 2 mockup beranda PBC (warna PBC vs warna mirip Firma), Bapak
 - Usulan Nusa Penida (render & gambar kerja kafe Dionne) untuk website: tunggu izin klien + file dari Bapak.
 - 22 Nov siang: bagian "Design & Construction Drawings / Desain & Gambar Kerja" (id=desain) — Kafe Nusa Penida — dipasang di Our Work (739) & Hasil Kerja (741) sebelum studi kasus: 6 render (tanpa render parkir mobil/motor, strip keterangan dipotong) + 3 gambar kerja (denah tata letak, tampak depan, potongan struktur; kotak judul/nama klien dipotong). Media 871–879 (webp). Blok tautan + 1 render di 474/473 (sebelum FAQ) & 654/653 (sebelum pertanyaan umum). Galeri layar penuh memakai snippet 10 yang sudah ada. Purge '88'. Backup backup/2026-11-22/np/.
 - Ulasan Google PBC: 9 ulasan, rating 5,0 (dikonfirmasi Bapak 22 Nov). Catatan lama "ulasan 0" sudah usang — bagian ulasan di Our Work benar, jangan diubah.
+
+## 26 Nov — Seri panel (disetujui Bapak)
+- Standar PBC: Seri Standar = rockwool 2,5 cm + rongga 5 cm (klip triplek); Seri Studio = rockwool 5 cm 60 kg/m³; Bass trap = 10 cm (2×5 cm). Data serap bahan (uji lab ISO 354): 2,5 cm .11/.28/.68/.90/.93 NRC 0,70; 5 cm .11/.60/.96/.94/.92 NRC 0,85; 10 cm .35/.95/.98/.92/.90 NRC 0,95 (sumber acoustic.ua tabel, Bob Golds OC703). Rongga 5 cm: hitungan model fisika ≈ 2× serapan 250–500 Hz (bukan data lab).
+- Website Wall Panel 857/858: bagian "Pilih seri" + tabel; angka lama (12 cm, 100 mm, NRC 0,90–1,00) dihapus; kisi kayu tetap 5 cm. Backup backup/2026-11-26/. Purge '89'.
+- Toko pbc-acoustic: pilihan seri di panel kain (kategori PA-P01/P03, rockwool 25 mm); Studio = "Tanya harga" via WA sampai harga diisi; tebal Studio ± 7 cm.
+- Aplikasi akustik (pbc-sistem): pilihan Seri; kurva serap ASTD/ASTU dipakai untuk model fab*.
+- Katalog PDF v4.4 masih memuat angka lama; sumbernya tidak ada di sesi ini → minta Bapak kirim PDF v4.4 untuk dikoreksi.
